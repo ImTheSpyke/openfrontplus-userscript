@@ -1,0 +1,163 @@
+(() => {
+  if (window.__of_overlay_initialized) return;
+  window.__of_overlay_initialized = true;
+
+  const canvasId = 'of-overlay-pinned-zoom';
+  const gameCanvas = document.querySelector('canvas');
+  if (!gameCanvas) { console.warn('No canvas found — overlay aborted'); delete window.__of_overlay_initialized; return; }
+
+  const findTransform = (cands) => { for (const s of cands) { const el = document.querySelector(s); if (!el) continue; if (el.transformHandler) return el.transformHandler; if (el.transform) return el.transform; } return null; };
+  const transformHandler = findTransform(['emoji-table','build-menu','player-info-overlay','unit-display','leader-board','game-left-sidebar']);
+  const gameView = (() => { for (const s of ['unit-display','player-info-overlay','leader-board','game-left-sidebar']) { const el = document.querySelector(s); if (el && el.game) return el.game; } return null; })();
+
+  const overlay = document.createElement('canvas');
+  overlay.id = canvasId;
+  Object.assign(overlay.style, { position: 'absolute', pointerEvents: 'none', zIndex: 9999, left: 0, top: 0 });
+  document.body.appendChild(overlay);
+  const ctx = overlay.getContext('2d');
+
+  // drawList items: { id, center:[x,y], radius (tiles, outer), fillColor, borderColor, borderWidth (tiles!), decay:[keepS,fadeS], createdAt }
+  const drawList = [];
+  let lastRect = null;
+
+  function updateOverlayRect() {
+    const r = gameCanvas.getBoundingClientRect();
+    if (lastRect && r.left===lastRect.left && r.top===lastRect.top && r.width===lastRect.width && r.height===lastRect.height) return r;
+    lastRect = r;
+    overlay.style.left = (r.left + window.scrollX) + 'px';
+    overlay.style.top = (r.top + window.scrollY) + 'px';
+    overlay.style.width = r.width + 'px';
+    overlay.style.height = r.height + 'px';
+    overlay.width = Math.max(0, Math.round(r.width));
+    overlay.height = Math.max(0, Math.round(r.height));
+    return r;
+  }
+
+  function worldToOverlayPos(tile, rect) {
+    try {
+      if (transformHandler && typeof transformHandler.worldToScreenCoordinates === 'function') {
+        if (typeof transformHandler.updateCanvasBoundingRect === 'function') transformHandler.updateCanvasBoundingRect();
+        const s = transformHandler.worldToScreenCoordinates({ x: tile.x, y: tile.y });
+        return { x: Math.round(s.x - rect.left), y: Math.round(s.y - rect.top) };
+      }
+    } catch (e) {}
+    return { x: Math.round(overlay.width/2), y: Math.round(overlay.height/2) };
+  }
+
+  // world -> pixels conversion (used for both radius and border width)
+  function worldToPixels(worldUnits) {
+    if (transformHandler && typeof transformHandler.scale === 'number') return worldUnits * transformHandler.scale;
+    try { if (gameView && typeof gameView.width === 'function' && gameView.width() > 0) return worldUnits * (overlay.width / gameView.width()); } catch (e) {}
+    return worldUnits * Math.max(6, Math.min(overlay.width, overlay.height) * 0.06); // fallback scale
+  }
+
+  // animation loop
+  let raf = null;
+  function frame() {
+    const rect = updateOverlayRect();
+    ctx.clearRect(0, 0, overlay.width, overlay.height);
+    if (!rect) { raf = requestAnimationFrame(frame); return; }
+    const now = performance.now();
+
+    for (let i = drawList.length - 1; i >= 0; i--) {
+      const it = drawList[i];
+      const age = Math.max(0, now - it.createdAt);
+      const keepMs = (it.decay?.[0] || 0) * 1000;
+      const fadeMs = (it.decay?.[1] || 0) * 1000;
+      const lifeMs = keepMs + fadeMs;
+      if (lifeMs > 0 && age >= lifeMs) { drawList.splice(i, 1); continue; }
+
+      let alpha = 1;
+      if (age > keepMs && fadeMs > 0) alpha = 1 - ((age - keepMs) / fadeMs);
+      alpha = Math.max(0, Math.min(1, alpha));
+
+      const pos = worldToOverlayPos({ x: it.center[0], y: it.center[1] }, rect);
+      const outerR = Math.max(0, worldToPixels(it.radius));               // outer edge in px
+      const bwPx = Math.max(0, worldToPixels(it.borderWidth || 0));      // border width in px (scaled with map)
+
+      // draw border inside: fill radius = outerR - bwPx ; stroke center = outerR - bwPx/2
+      const fillR = Math.max(0, outerR - bwPx);
+      const strokeR = Math.max(0, outerR - bwPx / 2);
+
+      ctx.save();
+      ctx.globalAlpha = alpha;
+
+      if (it.fillColor && fillR > 0) {
+        ctx.beginPath();
+        ctx.arc(pos.x, pos.y, fillR, 0, Math.PI * 2);
+        ctx.fillStyle = it.fillColor;
+        ctx.fill();
+        ctx.closePath();
+      }
+
+      if (bwPx > 0 && it.borderColor) {
+        ctx.beginPath();
+        ctx.arc(pos.x, pos.y, strokeR, 0, Math.PI * 2);
+        ctx.lineWidth = bwPx;
+        ctx.strokeStyle = it.borderColor;
+        ctx.stroke();
+        ctx.closePath();
+      }
+
+      ctx.restore();
+    }
+
+    raf = requestAnimationFrame(frame);
+  }
+
+  // hooks
+  const onChange = () => updateOverlayRect();
+  window.addEventListener('resize', onChange);
+  window.addEventListener('scroll', onChange, true);
+  const mo = new MutationObserver(onChange);
+  mo.observe(document.body, { subtree: true, childList: true, attributes: true });
+
+  updateOverlayRect();
+  raf = requestAnimationFrame(frame);
+
+  // API: add / convenience / clear / destroy
+  function addDraw(spec = {}) {
+    const s = {
+      center: Array.isArray(spec.center) ? [Number(spec.center[0]) || 0, Number(spec.center[1]) || 0] : [0, 0],
+      radius: Number(spec.radius) || 1,
+      fillColor: spec.fillColor ?? 'rgba(255,0,0,0.5)',
+      borderColor: spec.borderColor ?? 'rgba(255,255,255,0.9)',
+      // IMPORTANT: borderWidth is in world units (tiles) so it scales with the map
+      borderWidth: (typeof spec.borderWidth !== 'undefined') ? Number(spec.borderWidth) : 0.15,
+      decay: Array.isArray(spec.decay) ? spec.decay.map(n => Number(n) || 0) : [0, 0],
+      id: (Date.now() + Math.random()).toString(36),
+      createdAt: performance.now()
+    };
+    drawList.push(s);
+    return s.id;
+  }
+
+  // convenience: borderWidth (third param after radius) is in world units (tiles)
+  function drawCircleAtCoordinates(x, y, worldRadius = 1, color = 'rgba(255,0,0,0.5)', decay = [0, 1], borderWidthTiles = 0.15) {
+    return addDraw({ center: [x, y], radius: worldRadius, fillColor: color, borderColor: 'rgba(255,255,255,0.9)', borderWidth: borderWidthTiles, decay });
+  }
+
+  function clearDrawList() { drawList.length = 0; }
+
+  function destroy() {
+    if (raf) cancelAnimationFrame(raf);
+    window.removeEventListener('resize', onChange);
+    window.removeEventListener('scroll', onChange, true);
+    mo.disconnect();
+    const el = document.getElementById(canvasId); if (el) el.remove();
+    delete window.__of_overlay_addDraw;
+    delete window.__of_overlay_drawCircleAtCoordinates;
+    delete window.__of_overlay_clearDrawList;
+    delete window.__of_overlay_destroy;
+    delete window.__of_overlay_initialized;
+    drawList.length = 0;
+  }
+
+  window.__of_overlay_addDraw = addDraw;
+  window.__of_overlay_drawCircleAtCoordinates = drawCircleAtCoordinates;
+  window.__of_overlay_clearDrawList = clearDrawList;
+  window.__of_overlay_destroy = destroy;
+
+  console.log('Overlay ready. Note: borderWidth is now in world units (tiles) so it scales with the map.');
+  console.log('Example: window.__of_overlay_drawCircleAtCoordinates(10,25,1,"rgba(0,200,255,0.5)",[1,0.5], 0.12)');
+})();
