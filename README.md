@@ -16,10 +16,8 @@
  
  Due to 2025 chrome new extension policy to block AdBlockers, extensions now need an explicit permission to interact with the page. Here's how to do it:
 
- 
+**How to install OpenFront+ userscript**
+[![Watch the video](https://img.youtube.com/vi/5HpCPO4uJQA/mqdefault.jpg)](https://youtu.be/5HpCPO4uJQA)
 
-# How to update ?
- 1. Click the TamperMonkey icon in your browser
- 2. Click on the settings
- 3. In the "Last update" column, click on the row of the script to check for new updates
- 
+**Exampl**
+[![Watch the video](https://img.youtube.com/vi/5HpCPO4uJQA/mqdefault.jpg)](https://youtu.be/5HpCPO4uJQA)
