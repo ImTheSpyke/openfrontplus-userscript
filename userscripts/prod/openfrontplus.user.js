@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            OpenfrontIO+
 // @namespace       http://openfront.io/
-// @version         0.2.0
+// @version         0.2.1
 // @description     A userscript to take Openfront to the next step for Players and Casters !
 // @author          ImTheSpyke
 // @match           *://openfront.io/*
@@ -618,7 +618,9 @@
                 "Factory": "🏭",
             }[build_unit]
             let coords = this.tileToCoordinates(tile, this.size.width, this.size.height);
-            this.displayGrowingCircle(coords.x, coords.y, 1, 60, 'rgba(0, 0, 0, 1)', 3000, unit_name);
+            let color = 'rgba(255, 255, 0, 1)';
+            if(build_unit == "Warship") color = 'rgba(0, 0, 255, 1)';
+            this.displayGrowingCircle(coords.x, coords.y, 1, 60, color, 3000, unit_name);
         }
 
         
