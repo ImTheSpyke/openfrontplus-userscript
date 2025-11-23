@@ -4,11 +4,17 @@
 
  The overlay doesn't give you any unfair advantage ingame.
 
+
 ### Features:
 - ✅ See newly built structures
 - ✅ See impact zone of Atomb Bomb & Hydrogen bombs and who sent it
 - ⏳
 - ⏳ Scoreboard in pie chart for map %, gold, and troops (Coming soon...)
+
+## Example of the overlay
+(click to open on youtube)
+
+[![Watch the video](vid/example_openfrontplus_usercript.gif)](https://youtu.be/ro2ktD1uEoo)
 
 # How to install ?
  1. Get TamperMonkey for [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr) or [Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/). Or an alternative like [ViolentMonkey](https://violentmonkey.github.io/)
@@ -21,8 +27,3 @@
 (click to open on youtube)
 
 [![Watch the video](vid/how_to_install_userscript.gif)](https://youtu.be/5HpCPO4uJQA)
-
-## Example of the overlay
-(click to open on youtube)
-
-[![Watch the video](vid/example_openfrontplus_usercript.gif)](https://youtu.be/ro2ktD1uEoo)
