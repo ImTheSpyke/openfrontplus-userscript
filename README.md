@@ -26,4 +26,4 @@
 ## How to install OpenFront+ userscript
 (click to open on youtube)
 
-[![Watch the video](vid/how_to_install_userscript.gif)](https://youtu.be/5HpCPO4uJQA)
+[![Watch the video](vid/how_to_install_userscript.gif)](https://www.youtube.com/watch?v=EVqpCzHdjXw)
