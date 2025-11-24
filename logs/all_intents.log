@@ -1,0 +1,787 @@
+[2025-11-21T00:11:17.863Z] [mark_disconnected] from aabjiThQ: {"type":"mark_disconnected","clientID":"aabjiThQ","isDisconnected":false}
+[2025-11-21T00:11:33.975Z] [mark_disconnected] from aabjiThQ: {"type":"mark_disconnected","clientID":"aabjiThQ","isDisconnected":false}
+[2025-11-21T00:11:35.312Z] [mark_disconnected] from WDj2e1K6: {"type":"mark_disconnected","clientID":"WDj2e1K6","isDisconnected":false}
+[2025-11-21T00:11:35.714Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":null,"troops":682676.7}
+[2025-11-21T00:11:36.015Z] [attack] from sBD24v7z: {"clientID":"sBD24v7z","type":"attack","targetID":"sw330g7m","troops":106513}
+[2025-11-21T00:11:36.016Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1840939}
+[2025-11-21T00:11:36.215Z] [attack] from sBD24v7z: {"clientID":"sBD24v7z","type":"attack","targetID":"sw330g7m","troops":106589}
+[2025-11-21T00:11:36.425Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"noniu3zy","troops":1167054}
+[2025-11-21T00:11:36.615Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"sw330g7m","troops":173315.80000000002}
+[2025-11-21T00:11:36.816Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"sw330g7m","troops":174258.40000000002}
+[2025-11-21T00:11:37.218Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":777359}
+[2025-11-21T00:11:37.419Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"sw330g7m","troops":108001.40000000001}
+[2025-11-21T00:11:37.625Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"sw330g7m","troops":108919.8}
+[2025-11-21T00:11:37.724Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Warship","tile":2062396}
+[2025-11-21T00:11:37.825Z] [breakAlliance] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"breakAlliance","recipient":"9qw0mf9d"}
+[2025-11-21T00:11:37.924Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"sw330g7m","troops":88200.6}
+[2025-11-21T00:11:38.425Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"9qw0mf9d","troops":413158.60000000003}
+[2025-11-21T00:11:38.624Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"9qw0mf9d","troops":414226.4}
+[2025-11-21T00:11:38.725Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"9qw0mf9d","troops":333728.80000000005}
+[2025-11-21T00:11:38.924Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Warship","tile":2074390}
+[2025-11-21T00:11:39.325Z] [boat] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"boat","targetID":"z70kwqpc","troops":806038.2000000001,"dst":823200,"src":657341}
+[2025-11-21T00:11:40.625Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Defense Post","tile":855322}
+[2025-11-21T00:11:40.926Z] [upgrade_structure] from 89tdSh9i: {"clientID":"89tdSh9i","type":"upgrade_structure","unit":"City","unitId":4007}
+[2025-11-21T00:11:43.132Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"yue5ni52","troops":547517.4}
+[2025-11-21T00:11:43.233Z] [mark_disconnected] from tEgnKjfc: {"type":"mark_disconnected","clientID":"tEgnKjfc","isDisconnected":true}
+[2025-11-21T00:11:43.735Z] [upgrade_structure] from 89tdSh9i: {"clientID":"89tdSh9i","type":"upgrade_structure","unit":"City","unitId":1931}
+[2025-11-21T00:11:44.033Z] [emoji] from pszWY7uV: {"clientID":"pszWY7uV","type":"emoji","recipient":"9qw0mf9d","emoji":11}
+[2025-11-21T00:11:44.633Z] [attack] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"attack","targetID":"sw330g7m","troops":133456.89}
+[2025-11-21T00:11:44.732Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":null,"troops":786959.46}
+[2025-11-21T00:11:44.838Z] [attack] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"attack","targetID":"sw330g7m","troops":133697.97}
+[2025-11-21T00:11:44.838Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":null,"troops":788130}
+[2025-11-21T00:11:45.033Z] [attack] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"attack","targetID":"sw330g7m","troops":124595.45000000001}
+[2025-11-21T00:11:45.233Z] [attack] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"attack","targetID":"sw330g7m","troops":115535.70000000001}
+[2025-11-21T00:11:45.432Z] [attack] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"attack","targetID":"sw330g7m","troops":107164.54000000001}
+[2025-11-21T00:11:45.533Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Port","tile":815183}
+[2025-11-21T00:11:45.734Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":2551423.34}
+[2025-11-21T00:11:45.734Z] [upgrade_structure] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"upgrade_structure","unit":"City","unitId":1459}
+[2025-11-21T00:11:47.033Z] [boat] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"boat","targetID":"jhlpaw4q","troops":22999.260000000002,"dst":2138382,"src":1666378}
+[2025-11-21T00:11:47.233Z] [allianceRequest] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:11:47.334Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"mju2qfwn","troops":71781.6}
+[2025-11-21T00:11:47.534Z] [attack] from 8SGLUwso: {"clientID":"8SGLUwso","type":"attack","targetID":"mju2qfwn","troops":72216.6}
+[2025-11-21T00:11:48.435Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"9qw0mf9d","troops":280860.2}
+[2025-11-21T00:11:48.641Z] [donate_troops] from 89tdSh9i: {"clientID":"89tdSh9i","type":"donate_troops","recipient":"mju2qfwn","troops":55745.72521419567}
+[2025-11-21T00:11:49.035Z] [allianceRequest] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"allianceRequest","recipient":"sw330g7m"}
+[2025-11-21T00:11:49.035Z] [boat] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"boat","targetID":"jhlpaw4q","troops":22794.3,"dst":2184443,"src":1662400}
+[2025-11-21T00:11:49.135Z] [allianceRequestReply] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"allianceRequestReply","requestor":"0v43ry4x","accept":true}
+[2025-11-21T00:11:50.436Z] [build_unit] from peU47teQ: {"clientID":"peU47teQ","type":"build_unit","unit":"Defense Post","tile":1880551}
+[2025-11-21T00:11:50.636Z] [boat] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"boat","targetID":"jhlpaw4q","troops":22598.89,"dst":2220379,"src":1666378}
+[2025-11-21T00:11:51.441Z] [attack] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"attack","targetID":"noniu3zy","troops":516528.3}
+[2025-11-21T00:11:52.339Z] [attack] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"attack","targetID":"noniu3zy","troops":372015.89999999997}
+[2025-11-21T00:11:52.739Z] [mark_disconnected] from wVAe4JY4: {"type":"mark_disconnected","clientID":"wVAe4JY4","isDisconnected":true}
+[2025-11-21T00:11:53.040Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":1246256}
+[2025-11-21T00:11:53.441Z] [build_unit] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"build_unit","unit":"Defense Post","tile":1395118}
+[2025-11-21T00:11:55.045Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"7rkmnj9d","troops":733107.24}
+[2025-11-21T00:11:55.046Z] [build_unit] from peU47teQ: {"clientID":"peU47teQ","type":"build_unit","unit":"SAM Launcher","tile":2122760}
+[2025-11-21T00:11:55.145Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"7rkmnj9d","troops":472464}
+[2025-11-21T00:11:55.246Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":347028.88}
+[2025-11-21T00:11:55.346Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":272028.9}
+[2025-11-21T00:11:55.546Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":214478.22}
+[2025-11-21T00:11:55.947Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"noniu3zy","troops":1238759.9}
+[2025-11-21T00:11:56.147Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1658813}
+[2025-11-21T00:11:57.450Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"mju2qfwn","troops":663764.7}
+[2025-11-21T00:11:58.048Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1496857}
+[2025-11-21T00:11:58.250Z] [mark_disconnected] from M59VRuiD: {"type":"mark_disconnected","clientID":"M59VRuiD","isDisconnected":true}
+[2025-11-21T00:11:59.853Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1829058}
+[2025-11-21T00:12:00.954Z] [build_unit] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"build_unit","unit":"Missile Silo","tile":2306388}
+[2025-11-21T00:12:01.265Z] [mark_disconnected] from H9tq14E1: {"type":"mark_disconnected","clientID":"H9tq14E1","isDisconnected":true}
+[2025-11-21T00:12:01.554Z] [donate_troops] from pszWY7uV: {"clientID":"pszWY7uV","type":"donate_troops","recipient":"0v43ry4x","troops":1350455}
+[2025-11-21T00:12:01.555Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1756803}
+[2025-11-21T00:12:02.854Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"v1j5rauj","troops":753668.7}
+[2025-11-21T00:12:03.255Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"v1j5rauj","troops":532152.2999999999}
+[2025-11-21T00:12:03.455Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1779013}
+[2025-11-21T00:12:03.757Z] [cancel_attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"cancel_attack","attackID":"m4usblxq"}
+[2025-11-21T00:12:04.157Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"v1j5rauj","troops":384076.5}
+[2025-11-21T00:12:05.160Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"v1j5rauj","troops":281037}
+[2025-11-21T00:12:05.161Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1742798}
+[2025-11-21T00:12:05.460Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Defense Post","tile":1588911}
+[2025-11-21T00:12:05.460Z] [build_unit] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"build_unit","unit":"Warship","tile":2100407}
+[2025-11-21T00:12:05.961Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"ekc0iy8v","troops":707190.48}
+[2025-11-21T00:12:06.068Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"ekc0iy8v","troops":456702.48}
+[2025-11-21T00:12:06.270Z] [attack] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"attack","targetID":"mju2qfwn","troops":810503.7}
+[2025-11-21T00:12:06.767Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Defense Post","tile":1478922}
+[2025-11-21T00:12:06.767Z] [allianceRequest] from pszWY7uV: {"clientID":"pszWY7uV","type":"allianceRequest","recipient":"tsqlbefe"}
+[2025-11-21T00:12:07.366Z] [build_unit] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"build_unit","unit":"Defense Post","tile":1322990}
+[2025-11-21T00:12:07.367Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"9qw0mf9d","troops":449985.2}
+[2025-11-21T00:12:07.668Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Defense Post","tile":1742886}
+[2025-11-21T00:12:07.767Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"mju2qfwn","troops":570093.6}
+[2025-11-21T00:12:08.767Z] [boat] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"boat","targetID":"ycgql5a2","troops":359059.21,"dst":972871,"src":950892}
+[2025-11-21T00:12:09.367Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":1109192}
+[2025-11-21T00:12:09.966Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":1854910}
+[2025-11-21T00:12:10.967Z] [allianceRequestReply] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"allianceRequestReply","requestor":"2x9tfus4","accept":true}
+[2025-11-21T00:12:11.767Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":1157094}
+[2025-11-21T00:12:11.968Z] [mark_disconnected] from c1WW4g5C: {"type":"mark_disconnected","clientID":"c1WW4g5C","isDisconnected":false}
+[2025-11-21T00:12:13.267Z] [mark_disconnected] from sBD24v7z: {"type":"mark_disconnected","clientID":"sBD24v7z","isDisconnected":true}
+[2025-11-21T00:12:13.567Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"ycgql5a2","troops":294250.73000000004}
+[2025-11-21T00:12:13.568Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":1930939}
+[2025-11-21T00:12:13.667Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"mju2qfwn","troops":467005.8}
+[2025-11-21T00:12:13.970Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"9qw0mf9d","troops":439227.4}
+[2025-11-21T00:12:14.870Z] [attack] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"attack","targetID":"ekc0iy8v","troops":139925.45}
+[2025-11-21T00:12:15.470Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Missile Silo","tile":1594199}
+[2025-11-21T00:12:15.972Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"py1bz8vn","troops":593103.96}
+[2025-11-21T00:12:16.071Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":null,"troops":376476.2}
+[2025-11-21T00:12:16.371Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"v1j5rauj","troops":321979.8}
+[2025-11-21T00:12:17.272Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Missile Silo","tile":1607070}
+[2025-11-21T00:12:17.573Z] [boat] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"boat","targetID":"ycgql5a2","troops":374195.51,"dst":986879,"src":950892}
+[2025-11-21T00:12:17.674Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":null,"troops":816877.74}
+[2025-11-21T00:12:18.274Z] [allianceExtension] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"allianceExtension","recipient":"2x9tfus4"}
+[2025-11-21T00:12:19.276Z] [allianceRequest] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:12:19.376Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"ycgql5a2","troops":293968.98000000004}
+[2025-11-21T00:12:19.576Z] [allianceRequest] from 89tdSh9i: {"clientID":"89tdSh9i","type":"allianceRequest","recipient":"0v43ry4x"}
+[2025-11-21T00:12:20.077Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1832774}
+[2025-11-21T00:12:20.377Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":480480}
+[2025-11-21T00:12:20.377Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"ycgql5a2","troops":231338.6}
+[2025-11-21T00:12:20.578Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":376242.9}
+[2025-11-21T00:12:20.679Z] [allianceRequest] from 89tdSh9i: {"clientID":"89tdSh9i","type":"allianceRequest","recipient":"2x9tfus4"}
+[2025-11-21T00:12:20.679Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":296292.7}
+[2025-11-21T00:12:20.780Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":232390.62}
+[2025-11-21T00:12:20.878Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":182403.76}
+[2025-11-21T00:12:20.978Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":143272.36000000002}
+[2025-11-21T00:12:21.179Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":112616.9}
+[2025-11-21T00:12:21.279Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":113360.72}
+[2025-11-21T00:12:21.378Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":89332.1}
+[2025-11-21T00:12:21.479Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":65033.1}
+[2025-11-21T00:12:22.180Z] [build_unit] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"build_unit","unit":"Warship","tile":2116409}
+[2025-11-21T00:12:22.784Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"ycgql5a2","troops":192303.92}
+[2025-11-21T00:12:23.280Z] [mark_disconnected] from 8SGLUwso: {"type":"mark_disconnected","clientID":"8SGLUwso","isDisconnected":true}
+[2025-11-21T00:12:23.489Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"9qw0mf9d","troops":882087.36}
+[2025-11-21T00:12:23.684Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"py1bz8vn","troops":754527.6}
+[2025-11-21T00:12:23.881Z] [allianceRequest] from 89tdSh9i: {"clientID":"89tdSh9i","type":"allianceRequest","recipient":"jhlpaw4q"}
+[2025-11-21T00:12:24.984Z] [allianceRequest] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"allianceRequest","recipient":"les8hpdt"}
+[2025-11-21T00:12:25.989Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Defense Post","tile":1075258}
+[2025-11-21T00:12:26.090Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"py1bz8vn","troops":529003.08}
+[2025-11-21T00:12:26.389Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"ycgql5a2","troops":166693.65}
+[2025-11-21T00:12:27.090Z] [allianceRequest] from pszWY7uV: {"clientID":"pszWY7uV","type":"allianceRequest","recipient":"les8hpdt"}
+[2025-11-21T00:12:28.191Z] [emoji] from WDj2e1K6: {"clientID":"WDj2e1K6","type":"emoji","recipient":"AllPlayers","emoji":33}
+[2025-11-21T00:12:28.391Z] [allianceRequestReply] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"allianceRequestReply","requestor":"les8hpdt","accept":true}
+[2025-11-21T00:12:29.890Z] [allianceExtension] from peU47teQ: {"clientID":"peU47teQ","type":"allianceExtension","recipient":"2x9tfus4"}
+[2025-11-21T00:12:31.091Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"ekc0iy8v","troops":428306.39999999997}
+[2025-11-21T00:12:31.290Z] [allianceRequest] from pszWY7uV: {"clientID":"pszWY7uV","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:12:31.590Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":923153}
+[2025-11-21T00:12:31.590Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":1860639}
+[2025-11-21T00:12:32.992Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":999174}
+[2025-11-21T00:12:33.192Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1240995}
+[2025-11-21T00:12:33.792Z] [allianceRequest] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"allianceRequest","recipient":"le76pd31"}
+[2025-11-21T00:12:34.093Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":819136}
+[2025-11-21T00:12:34.692Z] [allianceExtension] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceExtension","recipient":"l98z362w"}
+[2025-11-21T00:12:35.494Z] [allianceRequestReply] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"allianceRequestReply","requestor":"2x9tfus4","accept":true}
+[2025-11-21T00:12:35.794Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":163730.79}
+[2025-11-21T00:12:36.595Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":117165.45000000001}
+[2025-11-21T00:12:36.995Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"SAM Launcher","tile":1588679}
+[2025-11-21T00:12:37.098Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":88006.51000000001}
+[2025-11-21T00:12:37.295Z] [allianceRequestReply] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"allianceRequestReply","requestor":"jhlpaw4q","accept":true}
+[2025-11-21T00:12:37.296Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":67062.48}
+[2025-11-21T00:12:37.495Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":51774.380000000005}
+[2025-11-21T00:12:37.596Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"ycgql5a2","troops":2209213.65}
+[2025-11-21T00:12:37.696Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":52018.87}
+[2025-11-21T00:12:38.097Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":29390.32}
+[2025-11-21T00:12:38.297Z] [attack] from c1WW4g5C: {"clientID":"c1WW4g5C","type":"attack","targetID":"l98z362w","troops":23102.58}
+[2025-11-21T00:12:38.899Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"py1bz8vn","troops":564931.08}
+[2025-11-21T00:12:41.605Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1482782}
+[2025-11-21T00:12:42.205Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"City","tile":2056606}
+[2025-11-21T00:12:44.106Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":2090768}
+[2025-11-21T00:12:44.107Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"ycgql5a2","troops":1602556.9}
+[2025-11-21T00:12:44.508Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"City","tile":1371671}
+[2025-11-21T00:12:44.611Z] [allianceRequest] from peU47teQ: {"clientID":"peU47teQ","type":"allianceRequest","recipient":"2x9tfus4"}
+[2025-11-21T00:12:44.908Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Port","tile":1968487}
+[2025-11-21T00:12:45.311Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Defense Post","tile":982998}
+[2025-11-21T00:12:45.808Z] [boat] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"boat","targetID":"py1bz8vn","troops":584105.0399999999,"dst":751065,"src":null}
+[2025-11-21T00:12:45.808Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":2096768}
+[2025-11-21T00:12:46.312Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"City","tile":1401776}
+[2025-11-21T00:12:46.712Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"ycgql5a2","troops":389064.24}
+[2025-11-21T00:12:46.812Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Port","tile":1806454}
+[2025-11-21T00:12:47.812Z] [allianceRequest] from pszWY7uV: {"clientID":"pszWY7uV","type":"allianceRequest","recipient":"btthlq7l"}
+[2025-11-21T00:12:48.414Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Defense Post","tile":1012946}
+[2025-11-21T00:12:48.913Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"jhlpaw4q","troops":1098259.05}
+[2025-11-21T00:12:49.114Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"jhlpaw4q","troops":1099676.97}
+[2025-11-21T00:12:49.213Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"jhlpaw4q","troops":869748.6}
+[2025-11-21T00:12:49.414Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"jhlpaw4q","troops":641242.98}
+[2025-11-21T00:12:49.512Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"jhlpaw4q","troops":460060.64999999997}
+[2025-11-21T00:12:49.613Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"jhlpaw4q","troops":328313.58}
+[2025-11-21T00:12:50.714Z] [attack] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"attack","targetID":"2x9tfus4","troops":339778}
+[2025-11-21T00:12:51.214Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"v1j5rauj"}
+[2025-11-21T00:12:51.214Z] [attack] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"attack","targetID":"2x9tfus4","troops":256198.2}
+[2025-11-21T00:12:51.817Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":239958.90000000002}
+[2025-11-21T00:12:51.817Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":null,"troops":1273370.3499999999}
+[2025-11-21T00:12:51.817Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"City","tile":537623}
+[2025-11-21T00:12:54.720Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":823526.2000000001}
+[2025-11-21T00:12:54.921Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":824168}
+[2025-11-21T00:12:55.021Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":660741}
+[2025-11-21T00:12:55.222Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":661747}
+[2025-11-21T00:12:56.123Z] [donate_troops] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"donate_troops","recipient":"2x9tfus4","troops":1357960}
+[2025-11-21T00:12:56.324Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":318592.12}
+[2025-11-21T00:12:56.430Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":249906.14}
+[2025-11-21T00:12:56.624Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":196162.34}
+[2025-11-21T00:12:56.729Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":197236.6}
+[2025-11-21T00:12:56.825Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":155158.74}
+[2025-11-21T00:12:56.926Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":112697.2}
+[2025-11-21T00:12:57.025Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":79319.9}
+[2025-11-21T00:12:57.225Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":38502.86}
+[2025-11-21T00:12:57.329Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":30395.64}
+[2025-11-21T00:12:57.427Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":24016.3}
+[2025-11-21T00:12:57.526Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":18993.04}
+[2025-11-21T00:12:57.631Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":15034.8}
+[2025-11-21T00:12:57.731Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":null,"troops":231308.91}
+[2025-11-21T00:12:57.731Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":11913.88}
+[2025-11-21T00:12:57.826Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":9450.98}
+[2025-11-21T00:12:57.929Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"City","tile":1245037}
+[2025-11-21T00:12:57.929Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":7505.96}
+[2025-11-21T00:12:58.028Z] [allianceRequest] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"allianceRequest","recipient":"2x9tfus4"}
+[2025-11-21T00:12:58.133Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":5968.6}
+[2025-11-21T00:12:58.331Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":4849.9}
+[2025-11-21T00:12:58.430Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":3950.76}
+[2025-11-21T00:12:58.529Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":3153.92}
+[2025-11-21T00:12:58.630Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":2521.64}
+[2025-11-21T00:12:58.731Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":2019.6}
+[2025-11-21T00:12:58.829Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":1620.52}
+[2025-11-21T00:12:58.930Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":1302.84}
+[2025-11-21T00:12:59.129Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":1049.6200000000001}
+[2025-11-21T00:13:00.435Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":1986874}
+[2025-11-21T00:13:01.941Z] [cancel_attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"cancel_attack","attackID":"8o4jijjs"}
+[2025-11-21T00:13:02.539Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Defense Post","tile":989039}
+[2025-11-21T00:13:03.541Z] [build_unit] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"build_unit","unit":"Missile Silo","tile":644491}
+[2025-11-21T00:13:04.147Z] [cancel_attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"cancel_attack","attackID":"aefm1n7c"}
+[2025-11-21T00:13:04.842Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":null,"troops":703627.77}
+[2025-11-21T00:13:08.048Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":2094910}
+[2025-11-21T00:13:08.346Z] [build_unit] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"build_unit","unit":"Warship","tile":2554759}
+[2025-11-21T00:13:09.851Z] [mark_disconnected] from c1WW4g5C: {"type":"mark_disconnected","clientID":"c1WW4g5C","isDisconnected":true}
+[2025-11-21T00:13:10.857Z] [build_unit] from 3w9qQQRq: {"clientID":"3w9qQQRq","type":"build_unit","unit":"Warship","tile":2580774}
+[2025-11-21T00:13:11.358Z] [mark_disconnected] from WDj2e1K6: {"type":"mark_disconnected","clientID":"WDj2e1K6","isDisconnected":true}
+[2025-11-21T00:13:12.756Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"z70kwqpc","troops":1123926.1199999999}
+[2025-11-21T00:13:12.857Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"z70kwqpc","troops":724278.6}
+[2025-11-21T00:13:13.557Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Atom Bomb","tile":2602758}
+[2025-11-21T00:13:14.458Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":2454752}
+[2025-11-21T00:13:15.360Z] [boat] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"boat","targetID":"l98z362w","troops":132042.24,"dst":486426,"src":703130}
+[2025-11-21T00:13:15.860Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":1946872}
+[2025-11-21T00:13:16.460Z] [allianceRequest] from peU47teQ: {"clientID":"peU47teQ","type":"allianceRequest","recipient":"tsqlbefe"}
+[2025-11-21T00:13:17.862Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":2072957}
+[2025-11-21T00:13:18.563Z] [move_warship] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"move_warship","unitId":2685,"tile":594552}
+[2025-11-21T00:13:19.868Z] [donate_troops] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"donate_troops","recipient":"2x9tfus4","troops":372295.5990411751}
+[2025-11-21T00:13:20.265Z] [move_warship] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"move_warship","unitId":2676,"tile":608562}
+[2025-11-21T00:13:20.667Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"0v43ry4x","troops":2107407.4}
+[2025-11-21T00:13:21.267Z] [boat] from pszWY7uV: {"clientID":"pszWY7uV","type":"boat","targetID":null,"troops":1547792.8199999998,"dst":2590760,"src":2518766}
+[2025-11-21T00:13:21.671Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:13:22.972Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"0v43ry4x","troops":1441328}
+[2025-11-21T00:13:23.575Z] [attack] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"attack","targetID":"sw330g7m","troops":515014.19999999995}
+[2025-11-21T00:13:24.474Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":604928.7}
+[2025-11-21T00:13:25.777Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":145041.9}
+[2025-11-21T00:13:26.177Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":597006.8}
+[2025-11-21T00:13:26.378Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":599065}
+[2025-11-21T00:13:26.378Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":132877.6}
+[2025-11-21T00:13:26.577Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1678716}
+[2025-11-21T00:13:26.975Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":120883.5}
+[2025-11-21T00:13:27.977Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1578724}
+[2025-11-21T00:13:28.979Z] [allianceExtension] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceExtension","recipient":"ycgql5a2"}
+[2025-11-21T00:13:29.178Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":393589}
+[2025-11-21T00:13:29.377Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":396045.2}
+[2025-11-21T00:13:29.677Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":116389.1}
+[2025-11-21T00:13:29.980Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Missile Silo","tile":2594759}
+[2025-11-21T00:13:30.381Z] [build_unit] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"build_unit","unit":"Defense Post","tile":1652672}
+[2025-11-21T00:13:30.511Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"z70kwqpc","troops":905144.76}
+[2025-11-21T00:13:30.581Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"z70kwqpc","troops":582085.08}
+[2025-11-21T00:13:31.484Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"0v43ry4x","troops":1201921}
+[2025-11-21T00:13:32.483Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":276879.68}
+[2025-11-21T00:13:32.684Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":217274.42}
+[2025-11-21T00:13:32.784Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":171761.92}
+[2025-11-21T00:13:32.885Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":134966.48}
+[2025-11-21T00:13:32.986Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":106126.02}
+[2025-11-21T00:13:33.086Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":83506.72}
+[2025-11-21T00:13:33.186Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":65756.02}
+[2025-11-21T00:13:33.286Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":51817.04}
+[2025-11-21T00:13:33.386Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":40864.56}
+[2025-11-21T00:13:33.486Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":32253.32}
+[2025-11-21T00:13:33.486Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"v1j5rauj"}
+[2025-11-21T00:13:33.587Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":25478.420000000002}
+[2025-11-21T00:13:33.694Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":20144.74}
+[2025-11-21T00:13:33.787Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":15942.74}
+[2025-11-21T00:13:33.889Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":12629.98}
+[2025-11-21T00:13:33.990Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":10016.38}
+[2025-11-21T00:13:34.190Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":7952.56}
+[2025-11-21T00:13:34.294Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":8070.92}
+[2025-11-21T00:13:34.294Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":827575.07}
+[2025-11-21T00:13:34.390Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":4767.62}
+[2025-11-21T00:13:34.492Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":3801.16}
+[2025-11-21T00:13:34.592Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":3035.12}
+[2025-11-21T00:13:34.690Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":2427.26}
+[2025-11-21T00:13:34.890Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":1988.36}
+[2025-11-21T00:13:34.992Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"z70kwqpc","troops":1595.44}
+[2025-11-21T00:13:35.892Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":null,"troops":309841.2}
+[2025-11-21T00:13:37.400Z] [donate_gold] from Mw1uvJyu: {"clientID":"Mw1uvJyu","type":"donate_gold","recipient":"2x9tfus4","gold":1209300}
+[2025-11-21T00:13:39.000Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Hydrogen Bomb","tile":1421013}
+[2025-11-21T00:13:39.201Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":1960804}
+[2025-11-21T00:13:39.701Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":624378.44}
+[2025-11-21T00:13:40.200Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":2067046}
+[2025-11-21T00:13:41.500Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":2116850}
+[2025-11-21T00:13:42.700Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":2157118}
+[2025-11-21T00:13:43.400Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":1187039.52}
+[2025-11-21T00:13:43.501Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":765437.0399999999}
+[2025-11-21T00:13:45.703Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":537841.44}
+[2025-11-21T00:13:45.906Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":927278}
+[2025-11-21T00:13:47.106Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":833329}
+[2025-11-21T00:13:47.406Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Hydrogen Bomb","tile":2230491}
+[2025-11-21T00:13:48.108Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":383213.2}
+[2025-11-21T00:13:48.407Z] [build_unit] from 89tdSh9i: {"clientID":"89tdSh9i","type":"build_unit","unit":"Defense Post","tile":1892831}
+[2025-11-21T00:13:49.408Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":1615062}
+[2025-11-21T00:13:49.910Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":1375969}
+[2025-11-21T00:13:50.410Z] [mark_disconnected] from 3w9qQQRq: {"type":"mark_disconnected","clientID":"3w9qQQRq","isDisconnected":true}
+[2025-11-21T00:13:50.610Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":1375075}
+[2025-11-21T00:13:51.814Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":949193}
+[2025-11-21T00:13:52.315Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":1487792.88}
+[2025-11-21T00:13:52.715Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":1175632.71}
+[2025-11-21T00:13:52.818Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":1177506.96}
+[2025-11-21T00:13:53.015Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":931558.11}
+[2025-11-21T00:13:53.115Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":685685.49}
+[2025-11-21T00:13:53.316Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":493288.52999999997}
+[2025-11-21T00:13:53.317Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":939053}
+[2025-11-21T00:13:55.923Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":101660.3}
+[2025-11-21T00:13:56.924Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":2274401}
+[2025-11-21T00:13:59.129Z] [mark_disconnected] from 7K4WQuG1: {"type":"mark_disconnected","clientID":"7K4WQuG1","isDisconnected":false}
+[2025-11-21T00:13:59.130Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":101054.20000000001}
+[2025-11-21T00:13:59.463Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:14:00.086Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":1037835.0499999999}
+[2025-11-21T00:14:01.537Z] [mark_disconnected] from 7K4WQuG1: {"type":"mark_disconnected","clientID":"7K4WQuG1","isDisconnected":false}
+[2025-11-21T00:14:01.937Z] [allianceRequestReply] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"allianceRequestReply","requestor":"z70kwqpc","accept":true}
+[2025-11-21T00:14:02.137Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":833193}
+[2025-11-21T00:14:02.241Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":100283.5}
+[2025-11-21T00:14:03.341Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":2003113}
+[2025-11-21T00:14:03.440Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":777257}
+[2025-11-21T00:14:05.042Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1949016}
+[2025-11-21T00:14:05.144Z] [build_unit] from peU47teQ: {"clientID":"peU47teQ","type":"build_unit","unit":"SAM Launcher","tile":2096763}
+[2025-11-21T00:14:05.544Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":100267.1}
+[2025-11-21T00:14:06.753Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1948899}
+[2025-11-21T00:14:07.256Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":723819.93}
+[2025-11-21T00:14:07.458Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":854274.6}
+[2025-11-21T00:14:07.556Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":549745.5599999999}
+[2025-11-21T00:14:08.962Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":100629.3}
+[2025-11-21T00:14:09.061Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":868651}
+[2025-11-21T00:14:12.272Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":100721.40000000001}
+[2025-11-21T00:14:12.676Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":444192.12}
+[2025-11-21T00:14:12.876Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":286489.44}
+[2025-11-21T00:14:13.081Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":599149.2000000001}
+[2025-11-21T00:14:13.281Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":600245.8}
+[2025-11-21T00:14:13.385Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":482571.4}
+[2025-11-21T00:14:14.585Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":1959418}
+[2025-11-21T00:14:16.194Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":740362.35}
+[2025-11-21T00:14:16.390Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":486460.1}
+[2025-11-21T00:14:18.597Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Atom Bomb","tile":625458}
+[2025-11-21T00:14:20.099Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Hydrogen Bomb","tile":1309481}
+[2025-11-21T00:14:20.799Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":52752.600000000006}
+[2025-11-21T00:14:22.000Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":null,"troops":190197}
+[2025-11-21T00:14:24.810Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":689493.01}
+[2025-11-21T00:14:26.513Z] [mark_disconnected] from js8TJqNT: {"type":"mark_disconnected","clientID":"js8TJqNT","isDisconnected":true}
+[2025-11-21T00:14:27.113Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":538775.65}
+[2025-11-21T00:14:27.914Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":366417.8}
+[2025-11-21T00:14:30.718Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":2258822}
+[2025-11-21T00:14:30.916Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"tsqlbefe","troops":18497.4}
+[2025-11-21T00:14:34.625Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":2090762}
+[2025-11-21T00:14:35.728Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":18965.5}
+[2025-11-21T00:14:37.634Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":675986.85}
+[2025-11-21T00:14:37.833Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":679119.84}
+[2025-11-21T00:14:37.934Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":538728.33}
+[2025-11-21T00:14:38.034Z] [mark_disconnected] from Mw1uvJyu: {"type":"mark_disconnected","clientID":"Mw1uvJyu","isDisconnected":true}
+[2025-11-21T00:14:38.134Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":399248.43}
+[2025-11-21T00:14:38.333Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":206269.13999999998}
+[2025-11-21T00:14:38.538Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":207335.52}
+[2025-11-21T00:14:38.834Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":18565.9}
+[2025-11-21T00:14:41.937Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":null,"troops":637880}
+[2025-11-21T00:14:42.141Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":18513.2}
+[2025-11-21T00:14:42.339Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":16764.100000000002}
+[2025-11-21T00:14:42.638Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":15205}
+[2025-11-21T00:14:42.839Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":13876}
+[2025-11-21T00:14:43.240Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":12761.400000000001}
+[2025-11-21T00:14:43.441Z] [attack] from 89tdSh9i: {"clientID":"89tdSh9i","type":"attack","targetID":"sw330g7m","troops":11623}
+[2025-11-21T00:14:43.442Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"les8hpdt","troops":531355.6}
+[2025-11-21T00:14:44.342Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":734128.05}
+[2025-11-21T00:14:44.645Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"2x9tfus4"}
+[2025-11-21T00:14:44.743Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1626207}
+[2025-11-21T00:14:45.846Z] [allianceExtension] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"allianceExtension","recipient":"2x9tfus4"}
+[2025-11-21T00:14:46.053Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"btthlq7l"}
+[2025-11-21T00:14:54.755Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":115871.7}
+[2025-11-21T00:14:54.957Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":109227.3}
+[2025-11-21T00:14:55.057Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":103293.59999999999}
+[2025-11-21T00:14:55.257Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":97716.59999999999}
+[2025-11-21T00:14:55.358Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":92163.72}
+[2025-11-21T00:14:55.459Z] [allianceRequestReply] from peU47teQ: {"clientID":"peU47teQ","type":"allianceRequestReply","requestor":"z70kwqpc","accept":true}
+[2025-11-21T00:14:55.459Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":86942.22}
+[2025-11-21T00:14:55.659Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":82031.16}
+[2025-11-21T00:14:55.759Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":82333.02}
+[2025-11-21T00:14:55.859Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":73071.23999999999}
+[2025-11-21T00:14:55.959Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":68979.72}
+[2025-11-21T00:14:56.160Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":65409.899999999994}
+[2025-11-21T00:14:56.261Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":61767.42}
+[2025-11-21T00:14:57.166Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":610100.0499999999}
+[2025-11-21T00:14:57.962Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1017615}
+[2025-11-21T00:14:59.264Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":349846.76999999996}
+[2025-11-21T00:14:59.664Z] [allianceRequest] from peU47teQ: {"clientID":"peU47teQ","type":"allianceRequest","recipient":"le76pd31"}
+[2025-11-21T00:14:59.764Z] [build_unit] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"build_unit","unit":"Hydrogen Bomb","tile":1509561}
+[2025-11-21T00:14:59.866Z] [donate_troops] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"donate_troops","recipient":"sw330g7m","troops":712706}
+[2025-11-21T00:15:00.364Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1117561}
+[2025-11-21T00:15:00.971Z] [allianceRequest] from peU47teQ: {"clientID":"peU47teQ","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:15:02.565Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":768487.6499999999}
+[2025-11-21T00:15:03.670Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":null,"troops":693509.99}
+[2025-11-21T00:15:04.171Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":341007.45}
+[2025-11-21T00:15:04.572Z] [allianceRequestReply] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"allianceRequestReply","requestor":"btthlq7l","accept":true}
+[2025-11-21T00:15:05.575Z] [allianceRequestReply] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"allianceRequestReply","requestor":"btthlq7l","accept":true}
+[2025-11-21T00:15:06.274Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":1307849.76}
+[2025-11-21T00:15:06.875Z] [build_unit] from peU47teQ: {"clientID":"peU47teQ","type":"build_unit","unit":"City","tile":2238859}
+[2025-11-21T00:15:06.876Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":667592.8}
+[2025-11-21T00:15:07.072Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":670332.4}
+[2025-11-21T00:15:07.272Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":538182.2000000001}
+[2025-11-21T00:15:07.372Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":406962.60000000003}
+[2025-11-21T00:15:08.374Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":88170}
+[2025-11-21T00:15:08.978Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":636489}
+[2025-11-21T00:15:08.978Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Defense Post","tile":1476853}
+[2025-11-21T00:15:09.876Z] [build_unit] from peU47teQ: {"clientID":"peU47teQ","type":"build_unit","unit":"Factory","tile":2206805}
+[2025-11-21T00:15:09.977Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1013665}
+[2025-11-21T00:15:10.980Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Defense Post","tile":1646879}
+[2025-11-21T00:15:11.279Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":621803.58}
+[2025-11-21T00:15:11.280Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1071684}
+[2025-11-21T00:15:11.478Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":264552.8}
+[2025-11-21T00:15:11.678Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":266922}
+[2025-11-21T00:15:12.079Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":426514.74}
+[2025-11-21T00:15:12.380Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":92186.4}
+[2025-11-21T00:15:13.480Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":302405.93}
+[2025-11-21T00:15:15.279Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":1391170}
+[2025-11-21T00:15:16.482Z] [upgrade_structure] from pszWY7uV: {"clientID":"pszWY7uV","type":"upgrade_structure","unit":"Missile Silo","unitId":7288}
+[2025-11-21T00:15:17.385Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":1148080.68}
+[2025-11-21T00:15:18.584Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Missile Silo","tile":1217368}
+[2025-11-21T00:15:20.990Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Atom Bomb","tile":1767393}
+[2025-11-21T00:15:21.090Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Factory","tile":1287238}
+[2025-11-21T00:15:23.291Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":714606.2}
+[2025-11-21T00:15:23.492Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":897737.76}
+[2025-11-21T00:15:23.593Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":471446.14999999997}
+[2025-11-21T00:15:23.593Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":580129.2}
+[2025-11-21T00:15:25.093Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Hydrogen Bomb","tile":1763396}
+[2025-11-21T00:15:25.994Z] [donate_gold] from peU47teQ: {"clientID":"peU47teQ","type":"donate_gold","recipient":"2x9tfus4","gold":1077574}
+[2025-11-21T00:15:29.296Z] [allianceRequest] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"allianceRequest","recipient":"2x9tfus4"}
+[2025-11-21T00:15:31.399Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":null,"troops":108906.23999999999}
+[2025-11-21T00:15:31.399Z] [allianceRequest] from pszWY7uV: {"clientID":"pszWY7uV","type":"allianceRequest","recipient":"tsqlbefe"}
+[2025-11-21T00:15:31.696Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":2137156}
+[2025-11-21T00:15:33.601Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":2480844}
+[2025-11-21T00:15:33.699Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1948960}
+[2025-11-21T00:15:34.102Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":2299147}
+[2025-11-21T00:15:36.209Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1169695}
+[2025-11-21T00:15:38.307Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Warship","tile":941743}
+[2025-11-21T00:15:38.407Z] [attack] from peU47teQ: {"clientID":"peU47teQ","type":"attack","targetID":"tsqlbefe","troops":365386.46}
+[2025-11-21T00:15:40.211Z] [emoji] from 89tdSh9i: {"clientID":"89tdSh9i","type":"emoji","recipient":"btthlq7l","emoji":48}
+[2025-11-21T00:15:40.914Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":342843.89999999997}
+[2025-11-21T00:15:41.814Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":235933.24999999997}
+[2025-11-21T00:15:42.014Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":841117.83}
+[2025-11-21T00:15:42.114Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":842654.4}
+[2025-11-21T00:15:42.315Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":669039.84}
+[2025-11-21T00:15:42.415Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":493757.88}
+[2025-11-21T00:15:43.316Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"2x9tfus4","troops":169561.69999999998}
+[2025-11-21T00:15:44.316Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":578926.4}
+[2025-11-21T00:15:44.518Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":580546.4}
+[2025-11-21T00:15:44.617Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":582154.2000000001}
+[2025-11-21T00:15:44.717Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":469522.60000000003}
+[2025-11-21T00:15:44.817Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":354947}
+[2025-11-21T00:15:44.917Z] [allianceExtension] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceExtension","recipient":"sw330g7m"}
+[2025-11-21T00:15:48.420Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"sw330g7m","troops":968911.2}
+[2025-11-21T00:15:48.519Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"sw330g7m","troops":625904.64}
+[2025-11-21T00:15:48.920Z] [boat] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"boat","targetID":"l98z362w","troops":140780.04,"dst":995603,"src":937675}
+[2025-11-21T00:15:50.224Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":2201280}
+[2025-11-21T00:15:50.724Z] [donate_troops] from peU47teQ: {"clientID":"peU47teQ","type":"donate_troops","recipient":"2x9tfus4","troops":1072956}
+[2025-11-21T00:15:52.426Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":370626.26999999996}
+[2025-11-21T00:15:52.833Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"sw330g7m","troops":291344.13}
+[2025-11-21T00:15:54.730Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1560320}
+[2025-11-21T00:15:57.637Z] [mark_disconnected] from yA79atDm: {"type":"mark_disconnected","clientID":"yA79atDm","isDisconnected":true}
+[2025-11-21T00:15:58.036Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"btthlq7l","troops":173239.40000000002}
+[2025-11-21T00:16:02.141Z] [attack] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"attack","targetID":"tsqlbefe","troops":1119928}
+[2025-11-21T00:16:02.342Z] [donate_troops] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"donate_troops","recipient":"tsqlbefe","troops":655771}
+[2025-11-21T00:16:02.742Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Atom Bomb","tile":2108768}
+[2025-11-21T00:16:04.346Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Hydrogen Bomb","tile":2104766}
+[2025-11-21T00:16:06.550Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Defense Post","tile":1836611}
+[2025-11-21T00:16:07.756Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":130549.86}
+[2025-11-21T00:16:07.854Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":122967.36}
+[2025-11-21T00:16:08.053Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":116119.86}
+[2025-11-21T00:16:08.254Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":109421.81999999999}
+[2025-11-21T00:16:08.356Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":103406.64}
+[2025-11-21T00:16:08.454Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":97481.34}
+[2025-11-21T00:16:08.556Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":91913.94}
+[2025-11-21T00:16:08.655Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":86681.58}
+[2025-11-21T00:16:08.756Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":81762.84}
+[2025-11-21T00:16:08.956Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":77137.8}
+[2025-11-21T00:16:11.963Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Missile Silo","tile":1801160}
+[2025-11-21T00:16:13.464Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"sw330g7m"}
+[2025-11-21T00:16:14.264Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1222637}
+[2025-11-21T00:16:15.165Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Hydrogen Bomb","tile":2300691}
+[2025-11-21T00:16:17.866Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1091642}
+[2025-11-21T00:16:20.069Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1219636}
+[2025-11-21T00:16:22.373Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Missile Silo","tile":2079366}
+[2025-11-21T00:16:22.573Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":979584}
+[2025-11-21T00:16:25.481Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"sw330g7m","troops":1449522}
+[2025-11-21T00:16:25.587Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"sw330g7m","troops":934192.08}
+[2025-11-21T00:16:26.893Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"2x9tfus4"}
+[2025-11-21T00:16:27.985Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"City","tile":2490967}
+[2025-11-21T00:16:28.485Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1240538}
+[2025-11-21T00:16:31.292Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"City","tile":2395083}
+[2025-11-21T00:16:31.391Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":138463.32}
+[2025-11-21T00:16:31.491Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":130436.58}
+[2025-11-21T00:16:31.591Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":122900.64}
+[2025-11-21T00:16:31.692Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":115823.7}
+[2025-11-21T00:16:31.892Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":109176}
+[2025-11-21T00:16:31.992Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":109480.44}
+[2025-11-21T00:16:32.092Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":103234.31999999999}
+[2025-11-21T00:16:32.192Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":91082.51999999999}
+[2025-11-21T00:16:32.291Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":85921.44}
+[2025-11-21T00:16:32.392Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":81067.5}
+[2025-11-21T00:16:32.492Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":76501.37999999999}
+[2025-11-21T00:16:32.592Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":72205.14}
+[2025-11-21T00:16:32.692Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":68161.98}
+[2025-11-21T00:16:32.793Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":64356.299999999996}
+[2025-11-21T00:16:32.993Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":60773.28}
+[2025-11-21T00:16:33.093Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":61045.74}
+[2025-11-21T00:16:33.193Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"City","tile":2190986}
+[2025-11-21T00:16:33.193Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":54276.54}
+[2025-11-21T00:16:33.292Z] [build_unit] from pszWY7uV: {"clientID":"pszWY7uV","type":"build_unit","unit":"Atom Bomb","tile":2122879}
+[2025-11-21T00:16:34.193Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":457721.25}
+[2025-11-21T00:16:36.099Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1045442}
+[2025-11-21T00:16:36.699Z] [mark_disconnected] from peU47teQ: {"type":"mark_disconnected","clientID":"peU47teQ","isDisconnected":true}
+[2025-11-21T00:16:36.699Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":870181.2}
+[2025-11-21T00:16:36.898Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":303424.1}
+[2025-11-21T00:16:37.298Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":200868.5}
+[2025-11-21T00:16:37.599Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":133464.44999999998}
+[2025-11-21T00:16:37.802Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":88463.9}
+[2025-11-21T00:16:38.400Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":61000.799999999996}
+[2025-11-21T00:16:38.601Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":40736.85}
+[2025-11-21T00:16:38.803Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":27314}
+[2025-11-21T00:16:39.003Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":18391.449999999997}
+[2025-11-21T00:16:40.104Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"sw330g7m","troops":190727.4}
+[2025-11-21T00:16:41.206Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Hydrogen Bomb","tile":1320516}
+[2025-11-21T00:16:42.107Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":18583.6}
+[2025-11-21T00:16:42.307Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":12568.5}
+[2025-11-21T00:16:44.011Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"sw330g7m","troops":142708.19999999998}
+[2025-11-21T00:16:44.911Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"sw330g7m","troops":103022.7}
+[2025-11-21T00:16:46.320Z] [donate_troops] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"donate_troops","recipient":"sw330g7m","troops":357935}
+[2025-11-21T00:16:49.322Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Defense Post","tile":1525401}
+[2025-11-21T00:16:50.022Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Defense Post","tile":1601303}
+[2025-11-21T00:16:50.222Z] [build_unit] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"build_unit","unit":"Atom Bomb","tile":1803156}
+[2025-11-21T00:16:52.924Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":826324.38}
+[2025-11-21T00:16:53.024Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":826443.45}
+[2025-11-21T00:16:53.224Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":653152.08}
+[2025-11-21T00:16:53.325Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":480283.01999999996}
+[2025-11-21T00:16:56.127Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"le76pd31","troops":903635.8}
+[2025-11-21T00:16:56.327Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"le76pd31","troops":904667.8}
+[2025-11-21T00:16:58.130Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":287899.29}
+[2025-11-21T00:16:58.330Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":290105.76}
+[2025-11-21T00:16:58.431Z] [attack] from pszWY7uV: {"clientID":"pszWY7uV","type":"attack","targetID":"tsqlbefe","troops":230752.41}
+[2025-11-21T00:16:58.731Z] [build_unit] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"build_unit","unit":"Atom Bomb","tile":1565707}
+[2025-11-21T00:17:00.931Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":286590.5}
+[2025-11-21T00:17:01.431Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":191510.55}
+[2025-11-21T00:17:02.334Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Missile Silo","tile":1308434}
+[2025-11-21T00:17:08.040Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":129923.51999999999}
+[2025-11-21T00:17:08.142Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":122725.73999999999}
+[2025-11-21T00:17:08.242Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":115666.73999999999}
+[2025-11-21T00:17:08.342Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":109035.12}
+[2025-11-21T00:17:08.445Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":102803.45999999999}
+[2025-11-21T00:17:08.541Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":846242}
+[2025-11-21T00:17:08.542Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":96946.2}
+[2025-11-21T00:17:08.641Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":91439.51999999999}
+[2025-11-21T00:17:08.744Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":847747}
+[2025-11-21T00:17:08.841Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":86261.34}
+[2025-11-21T00:17:08.842Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":681530.4}
+[2025-11-21T00:17:08.945Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":86566.56}
+[2025-11-21T00:17:08.945Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":683183.4}
+[2025-11-21T00:17:09.043Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":81696.36}
+[2025-11-21T00:17:09.142Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":76804.2}
+[2025-11-21T00:17:09.244Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":67897.68}
+[2025-11-21T00:17:09.345Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":64116}
+[2025-11-21T00:17:09.443Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":60554.7}
+[2025-11-21T00:17:09.543Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":57200.4}
+[2025-11-21T00:17:09.645Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":54040.5}
+[2025-11-21T00:17:09.843Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":51063.24}
+[2025-11-21T00:17:09.950Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":51321.299999999996}
+[2025-11-21T00:17:10.051Z] [allianceExtension] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"allianceExtension","recipient":"2x9tfus4"}
+[2025-11-21T00:17:10.051Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":48516.24}
+[2025-11-21T00:17:10.145Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":45688.619999999995}
+[2025-11-21T00:17:10.244Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":40516.979999999996}
+[2025-11-21T00:17:10.345Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":38315.04}
+[2025-11-21T00:17:10.444Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":36238.2}
+[2025-11-21T00:17:10.551Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":34279.14}
+[2025-11-21T00:17:10.749Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":32430.899999999998}
+[2025-11-21T00:17:10.845Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":30889.559999999998}
+[2025-11-21T00:17:10.955Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":29232.36}
+[2025-11-21T00:17:11.045Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":27669.48}
+[2025-11-21T00:17:11.152Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":217101.15}
+[2025-11-21T00:17:11.152Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":26194.079999999998}
+[2025-11-21T00:17:11.445Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":24973.559999999998}
+[2025-11-21T00:17:12.250Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"City","tile":1225234}
+[2025-11-21T00:17:12.853Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":1591227}
+[2025-11-21T00:17:12.954Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":1020736.7999999999}
+[2025-11-21T00:17:17.873Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"Atom Bomb","tile":1674504}
+[2025-11-21T00:17:22.274Z] [donate_gold] from pszWY7uV: {"clientID":"pszWY7uV","type":"donate_gold","recipient":"l98z362w","gold":538701}
+[2025-11-21T00:17:22.274Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1245682}
+[2025-11-21T00:17:22.779Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"sw330g7m"}
+[2025-11-21T00:17:23.478Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1177745}
+[2025-11-21T00:17:23.677Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":451714.2}
+[2025-11-21T00:17:24.878Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1361698}
+[2025-11-21T00:17:28.386Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1332436}
+[2025-11-21T00:17:29.389Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"sw330g7m","troops":1145153.88}
+[2025-11-21T00:17:29.487Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":337807.75}
+[2025-11-21T00:17:29.487Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"sw330g7m","troops":1148476.68}
+[2025-11-21T00:17:30.997Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":224696.15}
+[2025-11-21T00:17:31.499Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"2x9tfus4","troops":492506.4}
+[2025-11-21T00:17:31.598Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":null,"troops":57154.5}
+[2025-11-21T00:17:36.097Z] [donate_troops] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"donate_troops","recipient":"sw330g7m","troops":555985}
+[2025-11-21T00:17:36.500Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"sw330g7m","troops":246934.19999999998}
+[2025-11-21T00:17:37.698Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":null,"troops":339220.69999999995}
+[2025-11-21T00:17:39.799Z] [allianceRequest] from pszWY7uV: {"clientID":"pszWY7uV","type":"allianceRequest","recipient":"l98z362w"}
+[2025-11-21T00:17:41.602Z] [allianceRequestReply] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"allianceRequestReply","requestor":"2x9tfus4","accept":true}
+[2025-11-21T00:17:44.711Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"City","tile":1668674}
+[2025-11-21T00:17:45.311Z] [targetPlayer] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"targetPlayer","target":"l98z362w"}
+[2025-11-21T00:17:47.418Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":999632}
+[2025-11-21T00:17:51.223Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Missile Silo","tile":1985472}
+[2025-11-21T00:17:52.325Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1119461}
+[2025-11-21T00:17:52.825Z] [mark_disconnected] from 89tdSh9i: {"type":"mark_disconnected","clientID":"89tdSh9i","isDisconnected":true}
+[2025-11-21T00:17:54.226Z] [build_unit] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"build_unit","unit":"Atom Bomb","tile":1555708}
+[2025-11-21T00:17:54.425Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"sw330g7m","troops":239225.09999999998}
+[2025-11-21T00:17:55.930Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Port","tile":2001516}
+[2025-11-21T00:17:57.030Z] [donate_troops] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"donate_troops","recipient":"l98z362w","troops":131536}
+[2025-11-21T00:17:58.834Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":125166.18}
+[2025-11-21T00:17:59.038Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":117897.54}
+[2025-11-21T00:17:59.135Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":111327.12}
+[2025-11-21T00:17:59.236Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":104907.18}
+[2025-11-21T00:17:59.335Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":98878.37999999999}
+[2025-11-21T00:17:59.436Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":93215.34}
+[2025-11-21T00:17:59.535Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":87894.48}
+[2025-11-21T00:17:59.637Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":82893.78}
+[2025-11-21T00:17:59.736Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":78192.9}
+[2025-11-21T00:17:59.836Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":73772.7}
+[2025-11-21T00:18:00.036Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":69615.48}
+[2025-11-21T00:18:00.136Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":69881.58}
+[2025-11-21T00:18:00.236Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":65971.08}
+[2025-11-21T00:18:00.336Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":62041.02}
+[2025-11-21T00:18:00.436Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":58341.119999999995}
+[2025-11-21T00:18:00.538Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":51619.74}
+[2025-11-21T00:18:00.741Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":49001.88}
+[2025-11-21T00:18:00.838Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":46299.18}
+[2025-11-21T00:18:01.042Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":43752.96}
+[2025-11-21T00:18:03.341Z] [upgrade_structure] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"upgrade_structure","unit":"Missile Silo","unitId":9003}
+[2025-11-21T00:18:05.042Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":null,"troops":435892.1}
+[2025-11-21T00:18:05.042Z] [donate_troops] from pszWY7uV: {"clientID":"pszWY7uV","type":"donate_troops","recipient":"l98z362w","troops":286236}
+[2025-11-21T00:18:08.544Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":null,"troops":314794.89999999997}
+[2025-11-21T00:18:12.750Z] [build_unit] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"build_unit","unit":"City","tile":1350411}
+[2025-11-21T00:18:15.855Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1123642}
+[2025-11-21T00:18:18.659Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":864967}
+[2025-11-21T00:18:20.862Z] [donate_troops] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"donate_troops","recipient":"l98z362w","troops":160250}
+[2025-11-21T00:18:24.877Z] [build_unit] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"build_unit","unit":"Atom Bomb","tile":2113359}
+[2025-11-21T00:18:27.680Z] [attack] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"attack","targetID":"sw330g7m","troops":273342.6}
+[2025-11-21T00:18:29.981Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":113976.54}
+[2025-11-21T00:18:30.583Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":108992.87999999999}
+[2025-11-21T00:18:31.083Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":2321054.64}
+[2025-11-21T00:18:31.588Z] [build_unit] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"build_unit","unit":"Atom Bomb","tile":1076793}
+[2025-11-21T00:18:32.081Z] [quick_chat] from pszWY7uV: {"clientID":"pszWY7uV","type":"quick_chat","recipient":"l98z362w","quickChatKey":"help.gold"}
+[2025-11-21T00:18:32.783Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":1070800}
+[2025-11-21T00:18:33.083Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":97300.68}
+[2025-11-21T00:18:33.483Z] [attack] from 73BZ6iZK: {"clientID":"73BZ6iZK","type":"attack","targetID":"v1j5rauj","troops":1535852.88}
+[2025-11-21T00:18:33.683Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":89795.16}
+[2025-11-21T00:18:35.086Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":78537.9}
+[2025-11-21T00:18:35.989Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":68225.94}
+[2025-11-21T00:18:36.586Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":60552.299999999996}
+[2025-11-21T00:18:36.989Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":55090.14}
+[2025-11-21T00:18:37.189Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":51034.259999999995}
+[2025-11-21T00:18:37.488Z] [donate_troops] from oz6uiRoQ: {"clientID":"oz6uiRoQ","type":"donate_troops","recipient":"l98z362w","troops":178873}
+[2025-11-21T00:18:40.799Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":49870.68}
+[2025-11-21T00:18:41.699Z] [targetPlayer] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"targetPlayer","target":"l98z362w"}
+[2025-11-21T00:18:42.301Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":1675258.4000000001}
+[2025-11-21T00:18:42.502Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":1676611.6}
+[2025-11-21T00:18:42.602Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":1344258.4000000001}
+[2025-11-21T00:18:42.701Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":1346135.8}
+[2025-11-21T00:18:42.801Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":1012690.4}
+[2025-11-21T00:18:46.909Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":60720.659999999996}
+[2025-11-21T00:18:47.011Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":57311.4}
+[2025-11-21T00:18:47.212Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":54104.04}
+[2025-11-21T00:18:47.309Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":51314.22}
+[2025-11-21T00:18:47.509Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":48680.88}
+[2025-11-21T00:18:47.609Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":45981.18}
+[2025-11-21T00:18:47.711Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":43439.159999999996}
+[2025-11-21T00:18:47.811Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":41045.1}
+[2025-11-21T00:18:48.010Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":38789.939999999995}
+[2025-11-21T00:18:48.110Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":38992.56}
+[2025-11-21T00:18:48.210Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":36868.32}
+[2025-11-21T00:18:48.311Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":32707.68}
+[2025-11-21T00:18:48.411Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":30932.52}
+[2025-11-21T00:18:48.411Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":511998.19999999995}
+[2025-11-21T00:18:48.511Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":29258.76}
+[2025-11-21T00:18:48.711Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":27852.18}
+[2025-11-21T00:18:48.812Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":26353.559999999998}
+[2025-11-21T00:18:49.011Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":25102.26}
+[2025-11-21T00:18:49.012Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"tsqlbefe"}
+[2025-11-21T00:18:49.012Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":337358.35}
+[2025-11-21T00:18:49.211Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":221124.75}
+[2025-11-21T00:18:49.412Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":145657.05}
+[2025-11-21T00:18:49.511Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":146503.69999999998}
+[2025-11-21T00:18:49.712Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":45789.45}
+[2025-11-21T00:18:49.812Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":46232.549999999996}
+[2025-11-21T00:18:50.014Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":14811.3}
+[2025-11-21T00:18:51.821Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"z70kwqpc","troops":403808.60000000003}
+[2025-11-21T00:18:55.227Z] [build_unit] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"build_unit","unit":"Defense Post","tile":1199706}
+[2025-11-21T00:18:55.425Z] [emoji] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"emoji","recipient":"tsqlbefe","emoji":2}
+[2025-11-21T00:18:55.926Z] [emoji] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"emoji","recipient":"AllPlayers","emoji":0}
+[2025-11-21T00:18:57.828Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":27677.649999999998}
+[2025-11-21T00:18:58.629Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":20116.25}
+[2025-11-21T00:18:58.829Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":13589.099999999999}
+[2025-11-21T00:18:59.130Z] [allianceRequest] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"allianceRequest","recipient":"sw330g7m"}
+[2025-11-21T00:19:00.031Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":10788.4}
+[2025-11-21T00:19:00.233Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":7346.15}
+[2025-11-21T00:19:00.433Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":5030.2}
+[2025-11-21T00:19:00.632Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"z70kwqpc","troops":478544.80000000005}
+[2025-11-21T00:19:00.733Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"z70kwqpc","troops":3540.95}
+[2025-11-21T00:19:02.032Z] [emoji] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"emoji","recipient":"sw330g7m","emoji":2}
+[2025-11-21T00:19:03.337Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"z70kwqpc","troops":431243.60000000003}
+[2025-11-21T00:19:05.039Z] [build_unit] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"build_unit","unit":"Atom Bomb","tile":2610757}
+[2025-11-21T00:19:13.649Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":487619.99999999994}
+[2025-11-21T00:19:14.551Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":325774.39999999997}
+[2025-11-21T00:19:14.752Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":213671.5}
+[2025-11-21T00:19:14.951Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":139851.94999999998}
+[2025-11-21T00:19:15.151Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":93259.25}
+[2025-11-21T00:19:15.352Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":61301.45}
+[2025-11-21T00:19:15.556Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":41329.049999999996}
+[2025-11-21T00:19:15.754Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":27593.649999999998}
+[2025-11-21T00:19:15.953Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":18253.55}
+[2025-11-21T00:19:16.159Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":12527.55}
+[2025-11-21T00:19:16.258Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":84583.56}
+[2025-11-21T00:19:16.359Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":8327.199999999999}
+[2025-11-21T00:19:16.460Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":79765.92}
+[2025-11-21T00:19:16.556Z] [attack] from jnDVMoVy: {"clientID":"jnDVMoVy","type":"attack","targetID":"l98z362w","troops":5691.349999999999}
+[2025-11-21T00:19:16.656Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":75495.66}
+[2025-11-21T00:19:16.758Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":71480.52}
+[2025-11-21T00:19:16.858Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":67447.56}
+[2025-11-21T00:19:16.959Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":63654.299999999996}
+[2025-11-21T00:19:16.964Z] [build_unit] from X5ACjmhR: {"clientID":"X5ACjmhR","type":"build_unit","unit":"Port","tile":417113}
+[2025-11-21T00:19:17.058Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":60085.68}
+[2025-11-21T00:19:17.159Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":56727.659999999996}
+[2025-11-21T00:19:17.256Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":53567.1}
+[2025-11-21T00:19:17.358Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":50591.7}
+[2025-11-21T00:19:17.459Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":47790.119999999995}
+[2025-11-21T00:19:17.657Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":45151.56}
+[2025-11-21T00:19:17.759Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":45375.24}
+[2025-11-21T00:19:17.858Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":42890.34}
+[2025-11-21T00:19:17.958Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":38026.26}
+[2025-11-21T00:19:18.058Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":35951.76}
+[2025-11-21T00:19:18.157Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":33996.18}
+[2025-11-21T00:19:18.262Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":32152.32}
+[2025-11-21T00:19:18.357Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":30413.52}
+[2025-11-21T00:19:18.459Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":28773.539999999997}
+[2025-11-21T00:19:18.676Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":27226.44}
+[2025-11-21T00:19:20.959Z] [mark_disconnected] from pszWY7uV: {"type":"mark_disconnected","clientID":"pszWY7uV","isDisconnected":true}
+[2025-11-21T00:19:20.960Z] [mark_disconnected] from 73BZ6iZK: {"type":"mark_disconnected","clientID":"73BZ6iZK","isDisconnected":true}
+[2025-11-21T00:19:21.358Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":762709.4}
+[2025-11-21T00:19:21.459Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":767634}
+[2025-11-21T00:19:21.658Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":770101.4}
+[2025-11-21T00:19:21.758Z] [attack] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"attack","targetID":"l98z362w","troops":468736.2}
+[2025-11-21T00:19:22.462Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":32428.68}
+[2025-11-21T00:19:22.559Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":30866.879999999997}
+[2025-11-21T00:19:22.659Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":29201.579999999998}
+[2025-11-21T00:19:22.760Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":27630.66}
+[2025-11-21T00:19:22.960Z] [attack] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"attack","targetID":"l98z362w","troops":26148.539999999997}
+[2025-11-21T00:19:23.460Z] [mark_disconnected] from oz6uiRoQ: {"type":"mark_disconnected","clientID":"oz6uiRoQ","isDisconnected":true}
+[2025-11-21T00:19:31.069Z] [emoji] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"emoji","recipient":"AllPlayers","emoji":16}
+[2025-11-21T00:19:38.679Z] [emoji] from 9fKZGGoV: {"clientID":"9fKZGGoV","type":"emoji","recipient":"AllPlayers","emoji":2}
+[2025-11-21T00:19:44.090Z] [emoji] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"emoji","recipient":"AllPlayers","emoji":38}
+[2025-11-21T00:19:53.495Z] [mark_disconnected] from X5ACjmhR: {"type":"mark_disconnected","clientID":"X5ACjmhR","isDisconnected":true}
+[2025-11-21T00:19:55.800Z] [emoji] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"emoji","recipient":"AllPlayers","emoji":25}
+[2025-11-21T00:19:57.498Z] [mark_disconnected] from jnDVMoVy: {"type":"mark_disconnected","clientID":"jnDVMoVy","isDisconnected":true}
+[2025-11-21T00:20:07.417Z] [emoji] from XcTRjZr4: {"clientID":"XcTRjZr4","type":"emoji","recipient":"AllPlayers","emoji":15}
+[2025-11-21T00:20:20.530Z] [mark_disconnected] from 9fKZGGoV: {"type":"mark_disconnected","clientID":"9fKZGGoV","isDisconnected":true}
+[2025-11-21T00:20:35.052Z] [mark_disconnected] from XcTRjZr4: {"type":"mark_disconnected","clientID":"XcTRjZr4","isDisconnected":true}
+[2025-11-21T00:21:36.276Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":false}
+[2025-11-21T00:21:38.576Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":false}
+[2025-11-21T00:22:03.710Z] [mark_disconnected] from 7K4WQuG1: {"type":"mark_disconnected","clientID":"7K4WQuG1","isDisconnected":true}
+[2025-11-21T00:27:03.152Z] [mark_disconnected] from Ggi3e58H: {"type":"mark_disconnected","clientID":"Ggi3e58H","isDisconnected":true}
+[2025-11-21T00:28:46.300Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":true}
+[2025-11-21T00:29:16.375Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":false}
+[2025-11-21T00:29:46.427Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":true}
+[2025-11-21T00:30:15.976Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":false}
+[2025-11-21T00:31:46.108Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":true}
+[2025-11-21T00:32:10.152Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":false}
+[2025-11-21T00:32:15.363Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":false}
+[2025-11-21T00:32:17.765Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":false}
+[2025-11-21T00:32:40.713Z] [mark_disconnected] from Vs8iQ2yy: {"type":"mark_disconnected","clientID":"Vs8iQ2yy","isDisconnected":true}
+[2025-11-21T00:35:46.529Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":true}
+[2025-11-21T00:36:16.100Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":false}
+[2025-11-21T00:36:46.172Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":true}
+[2025-11-21T00:37:16.194Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":false}
+[2025-11-21T00:38:09.778Z] [mark_disconnected] from fepzbjC9: {"type":"mark_disconnected","clientID":"fepzbjC9","isDisconnected":true}
+
