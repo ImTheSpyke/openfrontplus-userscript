@@ -1,0 +1,22 @@
+{
+  "name": "openfrontplus-userscript",
+  "version": "1.0.0",
+  "description": "Its a simple overlay that improve parts of the visual game to make it more ergonomic and intuitive.\r  It is mainly aimed for casters on the Esport scene, but can be also used as a player.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run build && npm run start",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.18.1",
+    "typescript": "^5.9.3"
+  }
+}

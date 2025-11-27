@@ -3,6 +3,8 @@ import * as Types from "./types/index";
 import fs from "fs";
 
 
+const gameID = "PiUNqm6v";
+
 function simpleHash(str:string) {
     let hash = 0;
     for (let i = 0; i < str.length; i++) {
@@ -18,7 +20,7 @@ function timePrefix() {
     return `[${d.toISOString()}]`;
 }
 
-
+/*
 function tileToCoordinates(tile: number, width: number, height: number): { x: number; y: number } {
     if (tile < 0 || tile >= width * height) {
         throw new Error("Tile index out of bounds");
@@ -29,9 +31,8 @@ function tileToCoordinates(tile: number, width: number, height: number): { x: nu
 
     return { x, y };
 }
+    */
 
-
-const gameID = "fVvaV7ja";
 let workerID = simpleHash(gameID) % 20
 
 console.log("Worker ID:", workerID);
@@ -117,7 +118,8 @@ const LOGS: Types.LOGS = {
     "debug": {
         "units": [],
         messageTypes: [],
-        builds: []
+        builds: [],
+        alliances: []
     }
 }
 
@@ -141,6 +143,10 @@ function numToKMB(num: number): string {
     } else {
         return num.toFixed(0);
     }
+}
+
+function getPlayerFromID(id: string) {
+    return LOGS.players.find(p => p.id === id);
 }
 
 function processTurn(turnData: Types.Openfront.Message_Turn["turn"]) {
@@ -202,8 +208,122 @@ function processIntent(intent: Types.Openfront.Intent) {
     if(intent.clientID == "WDj2e1K6") {
         console.log(`${timePrefix()} ${intent.type} intent from ${intent.clientID}`, intent);
     }
+
+    if(intent.type == "allianceRequest") {
+        let text = `${timePrefix()} [${intent.type}] ${intent.clientID} asked ${intent.recipient} (${getPlayerFromID(intent.clientID)?.username || "Unknown"} asked ${getPlayerFromID(intent.recipient)?.username || "Unknown"})`
+        console.log(text);
+        appendToFilename("alliances.log", text + "\n");
+    } else if(intent.type == "allianceRequestReply") {
+        let text = `${timePrefix()} [${intent.type}] ${intent.clientID} accepted ${intent.requestor} (${getPlayerFromID(intent.clientID)?.username || "Unknown"} accepted ${getPlayerFromID(intent.requestor)?.username || "Unknown"})`
+        appendToFilename("alliances.log", text + "\n");
+        if(intent.accept == true) {
+            console.log(text);
+            LOGS.debug.alliances.push({
+                players: [
+                    intent.clientID,
+                    intent.requestor
+                ],
+                expiresAt: Date.now() + 1000 * 60 * 5,
+                createdAt: Date.now(),
+                createdAtText: (new Date()).toISOString()
+            });
+        }
+        appendToFilename("alliances.log", `${timePrefix()} Alliances of now are: ${JSON.stringify(LOGS.debug.alliances)}\n`);
+    } else if(intent.type == "breakAlliance") {
+        appendToFilename("alliances.log", `${timePrefix()} [${intent.type}] ${intent.clientID} broke alliance with ${intent.recipient}\n`);
+        LOGS.debug.alliances = LOGS.debug.alliances.filter((alliance:any) => {
+            let isThisTheirAlliance = (alliance.players[0] == intent.clientID && alliance.players[1] == intent.recipient)
+                                   || (alliance.players[0] == intent.recipient && alliance.players[1] == intent.clientID); 
+            return !isThisTheirAlliance;
+        })
+        appendToFilename("alliances.log", `${timePrefix()} Alliances of now are: ${JSON.stringify(LOGS.debug.alliances)}\n`);
+    } else if(intent.type == "allianceExtension") {
+        appendToFilename("alliances.log", `${timePrefix()} [${intent.type}] ${intent.clientID} extended alliance with ${intent.recipient}\n`);
+        appendToFilename("alliances.log", `${timePrefix()} Alliances of now are: ${JSON.stringify(LOGS.debug.alliances)}\n`);
+    }
+
 }
 
+function display(items: string[], width = 3, gap = 2) {
+  if (!Array.isArray(items)) throw new TypeError("items must be an array");
+  if (!Number.isInteger(width) || width <= 0) throw new TypeError("width must be a positive integer");
+
+  const gapStr = typeof gap === "number" ? " ".repeat(Math.max(0, gap)) : String(gap);
+
+  const rows = Math.ceil(items.length / width);
+
+  // Build grid
+  const grid = Array.from({ length: rows }, (_, r) =>
+    Array.from({ length: width }, (_, c) => {
+      const idx = r * width + c;
+      return idx < items.length ? String(items[idx]) : "";
+    })
+  );
+
+  // Compute column widths
+  const colWidths = Array.from({ length: width }, (_, c) =>
+    Math.max(...grid.map(row => (row[c] || "").length))
+  );
+
+  const padRight = (str: string, len: number) => str + " ".repeat(Math.max(0, len - str.length));
+
+  // Build lines into a string
+  const lines = grid.map(row => {
+    let line = "";
+    for (let c = 0; c < width; c++) {
+      const cell = row[c] || "";
+      const padded = padRight(cell, colWidths[c]);
+      line += padded + (c === width - 1 ? "" : gapStr);
+    }
+    return line.trimEnd();
+  });
+
+  return lines.join("\n");
+}
+
+function formatTime(msTime: number, format:string="HH:mm:ss") {
+        // 1000 -> "00:01" 
+        // 60000 -> "01:00"
+        // 3600000 -> "01:00:00"
+
+        let hours = Math.floor(msTime / 3600000).toString().padStart(2, '0');
+        let minutes = Math.floor((msTime % 3600000) / 60000).toString().padStart(2, '0');
+        let seconds = Math.floor((msTime % 60000) / 1000).toString().padStart(2, '0');
+
+        let toFormatString = format.replace('HH', hours).replace('mm', minutes).replace('ss', seconds);
+        return toFormatString;
+}
+
+function displayAllianceCountdown() {
+    // Filter out expired alliances
+    let now = Date.now();
+    LOGS.debug.alliances = LOGS.debug.alliances.filter((alliance:any) => {
+        if(alliance.expiresAt < now) {
+            return false;
+        }
+        return true;
+    });
+
+    // Sort by expiresAt
+
+    let now2 = Date.now();
+    let to_display = LOGS.debug.alliances.map((alliance:any) => {
+        let expiresIn = (alliance.expiresAt - now2);
+        return `(${formatTime(expiresIn, "mm:ss")}) ${getPlayerFromID(alliance.players[0])?.username || "Unknown"} - ${getPlayerFromID(alliance.players[1])?.username || "Unknown"}`;
+    })
+
+    console.log("\n\n\n")
+    let alliance_countdown = display(to_display, 6, 2);
+
+    console.log(alliance_countdown);
+
+    logToFilename("alliances_countdown.log", alliance_countdown);
+}
+
+
+setInterval(() => {
+    displayAllianceCountdown()
+}, 1000)
 
 /*
 

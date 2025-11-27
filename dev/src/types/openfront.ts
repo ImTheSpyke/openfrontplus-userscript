@@ -75,13 +75,14 @@ export type Message_Turn = {
 
 export type Intent = Intent_Attack
     | Intent_BuildUnit
-    | Intent_AllianceExtension
     | Intent_Spawn
     | Intent_breakAlliance
     | Intent_Boat
     | Intent_Emoji
     | Intent_MarkDisconnected
+    | Intent_AllianceRequest
     | Intent_AllianceRequestReply
+    | Intent_AllianceExtension
     | Intent_DonateTroops
 
 type Intent_Attack = {
@@ -138,6 +139,11 @@ type Intent_MarkDisconnected = {
   isDisconnected: boolean
 }
 
+type Intent_AllianceRequest = {
+  clientID: Client["clientID"],
+  type: "allianceRequest",
+  recipient: Client["clientID"]
+}
 type Intent_AllianceRequestReply = {
   clientID: Client["clientID"],
   requestor: Client["clientID"],

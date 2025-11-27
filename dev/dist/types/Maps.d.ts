@@ -1,0 +1,4 @@
+export type gameMap = "Map" | "World" | "Giant World Map" | "Europe" | "MENA" | "North America" | "Oceania" | "Black Sea" | "Africa" | "Asia" | "Mars" | "South America" | "Britannia" | "Gateway to the Atlantic" | "Australia" | "Random" | "Iceland" | "Pangaea" | "East Asia" | "Between Two Seas" | "Faroe Islands" | "Deglaciated Antarctica" | "Europe (classic)" | "Falkland Islands" | "Baikal" | "Halkidiki" | "Strait of Gibraltar" | "Italia" | "Japan" | "Yenisei" | "Pluto" | "Montreal" | "Achiran" | "Baikal (Nuke Wars)";
+export type Map = {
+    name: string;
+};

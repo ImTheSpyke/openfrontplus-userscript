@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            OpenfrontIO+
+// @name            OpenfrontIO+ (Beta)
 // @namespace       http://openfront.io/
 // @version         0.3.0-beta
 // @description     A userscript to take Openfront to the next step for Players and Casters !
@@ -7,8 +7,8 @@
 // @match           *://openfront.io/*
 // @icon            https://openfront.io/images/Favicon.43987b30b9ee70769cb8.svg
 // @grant           none
-// @downloadURL     https://raw.githubusercontent.com/ImTheSpyke/openfrontplus-userscript/main/userscripts/prod/openfrontplus.user.js
-// @updateURL       https://raw.githubusercontent.com/ImTheSpyke/openfrontplus-userscript/main/userscripts/prod/openfrontplus.meta.js
+// @downloadURL     https://raw.githubusercontent.com/ImTheSpyke/openfrontplus-userscript/main/userscripts/betaa/openfrontplus.user.js
+// @updateURL       https://raw.githubusercontent.com/ImTheSpyke/openfrontplus-userscript/main/userscripts/beta/openfrontplus.meta.js
 // ==/UserScript==
 
 
@@ -371,11 +371,6 @@
             
         }
 
-
-        getAlliancePlayerElement() {
-
-        }
-
         getMiddlePlayerMenu() {
             let player_menu = this.qs(document,"player-panel > div > div > div > div > div > div > div:nth-child(2)")
             if(!player_menu) return null;
@@ -384,9 +379,9 @@
 
             return {
                 getUsername: () => { return this.qs(player_menu, "div h2").textContent.trim()},
-                getFlag: () => { return this.qs(player_menu, "")},
-                getGold: () => { return KMBToNum(menu.querySelector("div.mb-1.flex.justify-between.gap-2 > div:nth-child(1) > span.tabular-nums").textContent.trim())},
-                getTroops: () => { return KMBToNum(menu.querySelector("div.mb-1.flex.justify-between.gap-2 > div:nth-child(2) > span.tabular-nums").textContent.trim())},
+                getFlag: () => { return this.qs(player_menu, "div img").getAttribute("src") },
+                getGold: () => { return KMBToNum(player_menu.querySelector("div.mb-1.flex.justify-between.gap-2 > div:nth-child(1) > span.tabular-nums").textContent.trim())},
+                getTroops: () => { return KMBToNum(player_menu.querySelector("div.mb-1.flex.justify-between.gap-2 > div:nth-child(2) > span.tabular-nums").textContent.trim())},
                 getBetrayals: () => { return this.tryToNumber(this.qs(player_menu, "div:nth-child(5) > div:nth-child(2)").textContent.trim()) },
                 getTrading: () => { return this.qs(player_menu, "div:nth-child(6) > div:nth-child(2) span").textContent.trim() == "Active" },
                 getAlliances: () => {
@@ -437,9 +432,11 @@
 
                 console.log("[OpenfrontPlus] Updating alliances");
 
-                this.alliances = OFUI.getAlliances();
-                this.allianceIntents = OFUI.getAlliancePlayerElement().getAlliances();
-
+                this.alliances = this.alliances.filter(alliance => {
+                    if(Date.now() > alliance.expiresAt) return false; // Remove expired alliances
+                    alliance.expiresText = formatTime((alliance.expiresAt - Date.now()), "mm:ss");
+                    return true;
+                })
             }, 1000)
 
             /*
@@ -543,7 +540,8 @@
 
         tileToCoordinates(tile, width, height) {
             if (tile < 0 || tile >= width * height) {
-                throw new Error("Tile index out of bounds");
+                console.error("[OpenfrontPlus] Tile index out of bounds");
+                return { x: 0, y: 0 };
             }
 
             const x = tile % width;
@@ -569,7 +567,7 @@
                 this.displayBuild(tile, unit);
             }
         }
-        addAllianceIntent(intent) {
+        processAllianceIntent(intent) {
             this.allianceIntents.push(intent);
 
             if(intent.type == "allianceRequest" || intent.type == "allianceExtension") {
@@ -578,24 +576,25 @@
 
             if(intent.type == "allianceRequestReply") {
                 if(!intent.accept) {
-                    return;
+                    return; // Alliance declined
                 }
-
-                let expiresAt = Date.now() + 1000 * 60 * 5; // 5min
+                const allianceDuration = 1000 * 60 * 5; // 5min
+                let expiresAt = Date.now() + allianceDuration;
                 this.alliances.push({
                     players: [
-                        getPlayerFromID(intent.clientID),
-                        getPlayerFromID(intent.recipient)
+                        OFP.getPlayerFromID(intent.clientID) ?? { username: "Unknown", clientID: intent.clientID, bot: true },
+                        OFP.getPlayerFromID(intent.recipient) ?? { username: "Unknown", clientID: intent.requestor, bot: true }
                     ],
                     expiresAt: expiresAt,
-                    expiresText: formatTime(expiresAt, "mm:ss")
+                    expiresText: formatTime(allianceDuration, "mm:ss")
                 });
             }
 
             if(intent.type == "breakAlliance") {
                 this.alliances = this.alliances.filter(alliance => {
 
-                    let isThisTheirAlliance = alliance.players.includes(player1) && alliance.players.includes(player2);
+                    let isThisTheirAlliance = (alliance.players[0].clientID == intent.clientID || alliance.players[1].clientID == intent.recipient)
+                        || (alliance.players[0].clientID == intent.recipient || alliance.players[1].clientID == intent.clientID);
                     if(isThisTheirAlliance) {
                         return false; // Remove the alliance because they broke it
                     }
@@ -610,10 +609,16 @@
             })
         }
 
-        getAlliances(playerID) {
-            return this.alliances.filter(alliance => alliance.from == playerID || alliance.to == playerID);
+        getAlliances() {
+            return this.alliances;
         }
-        getAllienceByUsername(username) {
+
+        getAlliancesByPlayerID(playerID) {
+            return this.alliances.filter(alliance => {
+                return alliance.players.some(player => player.id == playerID);
+            });
+        }
+        getAllianceByUsername(username) {
             return this.alliances.filter(alliance => {
                 return alliance.players.some(player => player.username == username);
             });
@@ -654,7 +659,7 @@
         hydrogenBomb(tile, text="") {
             let coords = this.tileToCoordinates(tile, this.size.width, this.size.height);
 
-            window.OpenFrontPlus_overlay.addDraw({
+            window.OpenFrontPlus_overlay?.addDraw?.({
                 center: [coords.x, coords.y],
                 radius: 100,
                 fillColor: 'rgba(255, 0, 0, 0.0)',
@@ -667,7 +672,7 @@
                 textOutline:true,
             });
 
-            window.OpenFrontPlus_overlay.addDraw({
+            window.OpenFrontPlus_overlay?.addDraw?.({
                 center: [coords.x, coords.y],
                 radius: 100-23,
                 fillColor: 'rgba(255, 0, 0, 0.5)',
@@ -688,7 +693,8 @@
         atomBomb(tile, text="") {
             let coords = this.tileToCoordinates(tile, this.size.width, this.size.height);
 
-            window.OpenFrontPlus_overlay.addDraw({
+            // Outer circle
+            window.OpenFrontPlus_overlay?.addDraw?.({
                 center: [coords.x, coords.y],
                 radius: 30,
                 fillColor: 'rgba(255, 143, 69, 0.0)',
@@ -701,7 +707,7 @@
                 textOutline:true,
             });
 
-            window.OpenFrontPlus_overlay.addDraw({
+            window.OpenFrontPlus_overlay?.addDraw?.({
                 center: [coords.x, coords.y],
                 radius: 15,
                 fillColor: 'rgba(255, 100, 0, 0.5)',
@@ -722,7 +728,7 @@
         MIRV(tile, text="") {
             let coords = this.tileToCoordinates(tile, this.size.width, this.size.height);
             
-            window.OpenFrontPlus_overlay.addDraw({
+            window.OpenFrontPlus_overlay?.addDraw?.({
                 center: [coords.x, coords.y],
                 radius: 30,
                 fillColor: 'rgba(0, 0, 0, 0.5)',
@@ -737,7 +743,7 @@
         }
 
         displayCircle(x, y, size, color='rgba(255, 255, 0, 1)', decay=[0.1,0.25], text="") {
-            window.OpenFrontPlus_overlay.addDraw({
+            window.OpenFrontPlus_overlay?.addDraw?.({
                 center: [x, y],
                 radius: size,
                 fillColor: 'rgba(0, 0, 0, 0.0)',
@@ -866,7 +872,7 @@
     }
 
     function processIntent(intent) {
-        console.log("[OpenfrontPlus] Processing intent:", intent);
+        //console.log("[OpenfrontPlus] Processing intent:", intent);
         if(intent.type == "mark_disconnected") {
             OFP.updatePlayer(intent.clientID, { connected: !intent.isDisconnected });
         }
@@ -894,7 +900,7 @@
             || intent.type == "allianceExtension"
             || intent.type == "breakAlliance"
         ) {
-            OFP.addAllianceIntent(intent);
+            OFP.processAllianceIntent(intent);
         }
 
 
@@ -913,7 +919,8 @@
 
 
 
-    window.OpenfrontPlus= OFP;
+    window.OpenFrontPlus= OFP;
+    window.OFUI = OFUI;
 
 
 }

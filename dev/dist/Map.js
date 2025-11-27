@@ -1,23 +1,17 @@
-import * as Types from "./types/index";
-import
-
-import utils from "./utils";
-
-export class Map {
-
-    private _name: Types.Openfront.Maps.Map["name"];
-    private _codename: Types.Openfront.Maps.gameMap;
-    private _manifestUrl: string;
-
-    constructor(name: Types.Openfront.Maps.Map["name"]) {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Map = void 0;
+class Map {
+    _name;
+    _codename;
+    _manifestUrl;
+    constructor(name) {
         this._name = name;
         this._codename = Map.getGameMapToCodenameMap(name) || "unknown";
         this._manifestUrl = `https://openfront.io/maps/${this._codename}manifest.json`;
     }
-
-
     static getGameMapToCodenameMap(gameMap) {
-        const  mapping = {
+        const mapping = {
             "map": "Map",
             "world": "World",
             "giantworldmap": "Giant World Map",
@@ -52,21 +46,19 @@ export class Map {
             "montreal": "Montreal",
             "achiran": "Achiran",
             "baikalnukewars": "Baikal (Nuke Wars)"
-        }
-
+        };
         // If the value is found, return the key
-        const key = Object.keys(mapping).find(k => mapping[k as keyof typeof mapping].toLowerCase() === gameMap.toLowerCase());
+        const key = Object.keys(mapping).find((k) => mapping[k].toLowerCase() === gameMap.toLowerCase());
         return key || null;
     }
 }
-
-
+exports.Map = Map;
 /*
 [...document.querySelectorAll("img")].map(x => x.src).filter(x => x.includes("/maps/"))
 
 ['https://openfront.io/maps/eastasia/thumbnail.webp?v=v0.26.17']
 */
-
+/*
 function getCurrentMap() {
     let mapImg = document.querySelector("img[src*='/maps/']");
     if (!mapImg) return null;
@@ -75,9 +67,5 @@ function getCurrentMap() {
     if (!match) return null;
     return match[1];
 }
-
-
-
-
-
-
+*/
+//# sourceMappingURL=Map.js.map
