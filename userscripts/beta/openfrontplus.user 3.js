@@ -15,13 +15,6 @@
 (async function() {
     'use strict';
 
-    function getGameID() {
-        // https://openfront.io/#join=e65NkFyD
-        const match = window.location.hash.match(/join=([a-zA-Z0-9]+)/);
-        return match ? match[1] : null;
-    }
-
-
     async function loadScript() {
 
 
@@ -293,7 +286,11 @@
     /***************/
 
 
-
+    function getGameID() {
+        // https://openfront.io/#join=e65NkFyD
+        const match = window.location.hash.match(/join=([a-zA-Z0-9]+)/);
+        return match ? match[1] : null;
+    }
 
     function getWorkerID(numberOfWorkers=20) {
         let gameID = getGameID();
@@ -312,19 +309,6 @@
         myUUID = myUUID.slice(0, -1) + (changeTo[lastChar] || "z");
         return myUUID;
     }
-
-    const socket = new WebSocket(`${window.location.protocol === 'https:' ? 'wss' : 'ws'}://${window.location.host}/w${getWorkerID()}`);
-
-    const connect_payload = {
-        "type":"join",
-        "gameID":getGameID(),
-        "clientID":"abcdefgh",
-        "lastTurn":0,
-        "token": getFakeUUID(),
-        "username": localStorage.getItem("username") || "Anonymous",
-        "cosmetics":{}
-    }
-
 
     class OpenfrontPlus {
         constructor() {
@@ -630,112 +614,132 @@
     const OFP = new OpenfrontPlus();
 
 
-    setInterval(() => {
-        if(socket.readyState !== WebSocket.OPEN) {
-            console.warn("[OpenfrontPlus] WebSocket not open, skipping ping");
-            return;
+
+    class OpenFrontPlusAPI {
+        constructor() {
+            this.connect_payload = {
+                "type":"join",
+                "gameID":getGameID(),
+                "clientID":"abcdefgh",
+                "lastTurn":0,
+                "token": getFakeUUID(),
+                "username": localStorage.getItem("username") || "Anonymous",
+                "cosmetics":{}
+            }
         }
-        socket.send(JSON.stringify({"type":"ping"}));
-    }, 5000);
 
-    console.warn("connect_payload:", connect_payload);
-    // When the connection opens
-
-    // When a message is received
-    socket.addEventListener("message", (event) => {
-        if(typeof event.data !== "string") return;
-        let msg = JSON.parse(event.data);
-        if(msg.type == 'start') {
-            
-            processStart(msg);
-        } else if(msg.type === 'turn') {
-            processTurn(msg.turn);
+        getConnectPayload() {
+            return this.connect_payload
         }
-    });
 
-    socket.addEventListener("open", () => {
-        console.warn(`[OpenfrontPlus] Connected to WebSocket on worker ${getWorkerID()}`);
-        socket.send(JSON.stringify(connect_payload))
-    });
+        processStart(startMsg) {
 
-    // When the connection closes
-    socket.addEventListener("close", () => {
-        console.warn("[OpenfrontPlus] Connection closed");
-    });
+            console.warn("[OpenfrontPlus] Game started:", startMsg);
+            OFP.loadMap(startMsg.gameStartInfo?.config?.gameMap ?? null);
 
-    // On error
-    socket.addEventListener("error", (err) => {
-        console.error("[OpenfrontPlus] WebSocket error:", err);
-    });
-
-
-    function processStart(startMsg) {
-
-        console.warn("[OpenfrontPlus] Game started:", startMsg);
-        OFP.loadMap(startMsg.gameStartInfo?.config?.gameMap ?? null);
-
-        startMsg.gameStartInfo.players.forEach((player) => {
-            OFP.updatePlayer(player.clientID, {
-                id: player.clientID,
-                username: player.username,
-                cosmetics: player.cosmetics,
-                connected: true
+            startMsg.gameStartInfo.players.forEach((player) => {
+                OFP.updatePlayer(player.clientID, {
+                    id: player.clientID,
+                    username: player.username,
+                    cosmetics: player.cosmetics,
+                    connected: true
+                });
             });
-        });
-    }
+        }
 
-    function processTurn(turnData) {
+        processTurn(turnData) {
+            // console.log("Processsing turn:",turnData)
+            turnData.intents.forEach((intent) => {
+                processIntent(intent);
+                
+                if(intent.type == "attack") {
+                    OFP.addAttack({
+                        turn: turnData.turnNumber,
+                        attacker: intent.clientID,
+                        troops: intent.troops,
+                        troopsTxt: numToKMB(intent.troops),
+                        victim: intent.targetID
+                    })
+                }
+                if(intent.type == "build_unit") {
+                    OFP.addBuildUnit(turnData.turnNumber, intent.clientID, intent.unit, intent.tile);
+                }
+            });
+        }
 
-        // console.log("Processsing turn:",turnData)
-
-        turnData.intents.forEach((intent) => {
-            processIntent(intent);
-            
-            if(intent.type == "attack") {
-                OFP.addAttack({
-                    turn: turnData.turnNumber,
-                    attacker: intent.clientID,
-                    troops: intent.troops,
-                    troopsTxt: numToKMB(intent.troops),
-                    victim: intent.targetID
-                })
+        processIntent(intent) {
+            console.log("[OpenfrontPlus] Processing intent:", intent);
+            if(intent.type == "mark_disconnected") {
+                OFP.updatePlayer(intent.clientID, { connected: !intent.isDisconnected });
             }
 
             if(intent.type == "build_unit") {
-            
-                OFP.addBuildUnit(turnData.turnNumber, intent.clientID, intent.unit, intent.tile);
+                if(intent.unit == "Atom Bomb") {
+                    console.error("Atom Bomb intent detected at tile", intent.tile);
+                    OFP.atomBomb(intent.tile, OFP.getPlayerFromID(intent.clientID).username);
+                }
+                if(intent.unit == "Hydrogen Bomb") {
+                    console.error("Hydrogen Bomb intent detected at tile", intent.tile);
+                    OFP.hydrogenBomb(intent.tile, OFP.getPlayerFromID(intent.clientID).username);
+                }
+                if(intent.unit == "MIRV Bomb") {
+                    console.error("MIRV Bomb intent detected at tile", intent.tile);
+                    OFP.MIRV(intent.tile, OFP.getPlayerFromID(intent.clientID).username);
+                }
             }
+        
+        }
+
+    }
+
+    const OFP_API = new OpenFrontPlusAPI();
+
+    
+
+    window.socket = null
 
 
+    function refreshSocket() {
+        
+        window.socket = new WebSocket(`${window.location.protocol === 'https:' ? 'wss' : 'ws'}://${window.location.host}/w${getWorkerID()}`);
+
+        setInterval(() => {
+            if(socket.readyState !== WebSocket.OPEN) {
+                console.warn("[OpenfrontPlus] WebSocket not open, skipping ping");
+                return;
+            }
+            socket.send(JSON.stringify({"type":"ping"}));
+        }, 5000);
+
+        // When a message is received
+        socket.addEventListener("message", (event) => {
+            if(typeof event.data !== "string") return;
+            let msg = JSON.parse(event.data);
+            if(msg.type == 'start') {
+                
+                processStart(msg);
+            } else if(msg.type === 'turn') {
+                processTurn(msg.turn);
+            }
         });
 
+        socket.addEventListener("open", () => {
+            console.warn(`[OpenfrontPlus] Connected to WebSocket on worker ${getWorkerID()}`);
+            socket.send(JSON.stringify(connect_payload))
+        });
+
+        // When the connection closes
+        socket.addEventListener("close", () => {
+            console.warn("[OpenfrontPlus] Connection closed");
+        });
+
+        // On error
+        socket.addEventListener("error", (err) => {
+            console.error("[OpenfrontPlus] WebSocket error:", err);
+        });
     }
 
-    function processIntent(intent) {
-        console.log("[OpenfrontPlus] Processing intent:", intent);
-        if(intent.type == "mark_disconnected") {
-            OFP.updatePlayer(intent.clientID, { connected: !intent.isDisconnected });
-        }
-
-        if(intent.type == "build_unit") {
-            
-
-            if(intent.unit == "Atom Bomb") {
-                console.error("Atom Bomb intent detected at tile", intent.tile);
-                OFP.atomBomb(intent.tile, OFP.getPlayerFromID(intent.clientID).username);
-            }
-            if(intent.unit == "Hydrogen Bomb") {
-                console.error("Hydrogen Bomb intent detected at tile", intent.tile);
-                OFP.hydrogenBomb(intent.tile, OFP.getPlayerFromID(intent.clientID).username);
-            }
-            if(intent.unit == "MIRV Bomb") {
-                console.error("MIRV Bomb intent detected at tile", intent.tile);
-                OFP.MIRV(intent.tile, OFP.getPlayerFromID(intent.clientID).username);
-            }
-        }
-
-
-    }
+    refreshSocket();
 
 
     
@@ -750,6 +754,7 @@
 
 
 
+    window.OFP_API = OFP_API;
     window.OpenfrontPlus= OFP;
 
 
