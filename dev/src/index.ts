@@ -3,7 +3,7 @@ import * as Types from "./types/index";
 import fs from "fs";
 
 
-const gameID = "PiUNqm6v";
+const gameID = "qFcWijJD";
 
 function simpleHash(str:string) {
     let hash = 0;

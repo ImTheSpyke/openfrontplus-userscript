@@ -5,7 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const ws_1 = __importDefault(require("ws"));
 const fs_1 = __importDefault(require("fs"));
-const gameID = "PiUNqm6v";
+const gameID = "qFcWijJD";
 function simpleHash(str) {
     let hash = 0;
     for (let i = 0; i < str.length; i++) {

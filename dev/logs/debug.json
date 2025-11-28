@@ -6,869 +6,4584 @@
   ],
   "builds": [
     {
-      "turn": 1818,
-      "builder": "m8M2MXdG",
+      "turn": 872,
+      "builder": "yx4Q5CEG",
       "unit": "City",
-      "tile": 995697
+      "tile": 662624
     },
     {
-      "turn": 1821,
-      "builder": "BpMxuN6X",
+      "turn": 902,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 818969
+    },
+    {
+      "turn": 987,
+      "builder": "Dnw44ee6",
+      "unit": "City",
+      "tile": 127736
+    },
+    {
+      "turn": 1020,
+      "builder": "4hJqHU8H",
+      "unit": "City",
+      "tile": 1356683
+    },
+    {
+      "turn": 1032,
+      "builder": "UvqqtaJh",
+      "unit": "Factory",
+      "tile": 835387
+    },
+    {
+      "turn": 1040,
+      "builder": "4EiX6cZx",
+      "unit": "City",
+      "tile": 1536109
+    },
+    {
+      "turn": 1042,
+      "builder": "cUJis2iX",
+      "unit": "City",
+      "tile": 458143
+    },
+    {
+      "turn": 1054,
+      "builder": "bZfst6b9",
+      "unit": "City",
+      "tile": 629700
+    },
+    {
+      "turn": 1065,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 58975
+    },
+    {
+      "turn": 1072,
+      "builder": "4Vz3F32q",
+      "unit": "City",
+      "tile": 1360147
+    },
+    {
+      "turn": 1078,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1644266
+    },
+    {
+      "turn": 1078,
+      "builder": "SrEqRVU1",
+      "unit": "City",
+      "tile": 183830
+    },
+    {
+      "turn": 1080,
+      "builder": "XFuP8RND",
+      "unit": "City",
+      "tile": 1392424
+    },
+    {
+      "turn": 1081,
+      "builder": "RFZevcvW",
+      "unit": "City",
+      "tile": 153976
+    },
+    {
+      "turn": 1103,
+      "builder": "u8fAVVoQ",
+      "unit": "City",
+      "tile": 652309
+    },
+    {
+      "turn": 1104,
+      "builder": "gCCzeQxy",
       "unit": "Port",
-      "tile": 463048
+      "tile": 1240239
     },
     {
-      "turn": 1826,
-      "builder": "rgFFYsKF",
+      "turn": 1113,
+      "builder": "Ub6XKWBc",
+      "unit": "City",
+      "tile": 89729
+    },
+    {
+      "turn": 1123,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 812658
+    },
+    {
+      "turn": 1128,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1209721
+    },
+    {
+      "turn": 1132,
+      "builder": "MLcjkhpq",
+      "unit": "City",
+      "tile": 329660
+    },
+    {
+      "turn": 1137,
+      "builder": "LNnFM2r6",
+      "unit": "City",
+      "tile": 306833
+    },
+    {
+      "turn": 1140,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 643266
+    },
+    {
+      "turn": 1145,
+      "builder": "YDez8RLJ",
+      "unit": "City",
+      "tile": 1067800
+    },
+    {
+      "turn": 1158,
+      "builder": "raTCoQMZ",
       "unit": "Defense Post",
-      "tile": 399495
+      "tile": 527572
     },
     {
-      "turn": 1838,
-      "builder": "4v35rEBF",
-      "unit": "Factory",
-      "tile": 2724104
-    },
-    {
-      "turn": 1891,
-      "builder": "BqG92cqL",
-      "unit": "Factory",
-      "tile": 1720874
-    },
-    {
-      "turn": 1893,
-      "builder": "WyBQApHf",
+      "turn": 1192,
+      "builder": "Gf174GP4",
       "unit": "City",
-      "tile": 656924
+      "tile": 1275975
     },
     {
-      "turn": 1895,
-      "builder": "TkhwKWmq",
+      "turn": 1220,
+      "builder": "byCEQXpb",
       "unit": "City",
-      "tile": 2708067
+      "tile": 700693
+    },
+    {
+      "turn": 1231,
+      "builder": "RFZevcvW",
+      "unit": "Port",
+      "tile": 314491
+    },
+    {
+      "turn": 1267,
+      "builder": "UvqqtaJh",
+      "unit": "City",
+      "tile": 847365
+    },
+    {
+      "turn": 1273,
+      "builder": "dkB9sFgP",
+      "unit": "City",
+      "tile": 460180
+    },
+    {
+      "turn": 1300,
+      "builder": "hcRqWZdY",
+      "unit": "City",
+      "tile": 287859
+    },
+    {
+      "turn": 1338,
+      "builder": "4Vz3F32q",
+      "unit": "Port",
+      "tile": 1291140
+    },
+    {
+      "turn": 1344,
+      "builder": "YDez8RLJ",
+      "unit": "Defense Post",
+      "tile": 1069320
+    },
+    {
+      "turn": 1365,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1237451
+    },
+    {
+      "turn": 1395,
+      "builder": "XjMzJvrR",
+      "unit": "City",
+      "tile": 290923
+    },
+    {
+      "turn": 1402,
+      "builder": "wuWNQ2ry",
+      "unit": "Port",
+      "tile": 1145221
+    },
+    {
+      "turn": 1426,
+      "builder": "XjMzJvrR",
+      "unit": "Port",
+      "tile": 190383
+    },
+    {
+      "turn": 1446,
+      "builder": "hcRqWZdY",
+      "unit": "Port",
+      "tile": 242833
+    },
+    {
+      "turn": 1466,
+      "builder": "MLcjkhpq",
+      "unit": "Port",
+      "tile": 350567
+    },
+    {
+      "turn": 1481,
+      "builder": "SrEqRVU1",
+      "unit": "Factory",
+      "tile": 215314
+    },
+    {
+      "turn": 1507,
+      "builder": "4Vz3F32q",
+      "unit": "Defense Post",
+      "tile": 1630084
+    },
+    {
+      "turn": 1510,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 16921
+    },
+    {
+      "turn": 1530,
+      "builder": "tPA57aWj",
+      "unit": "Port",
+      "tile": 810184
+    },
+    {
+      "turn": 1533,
+      "builder": "Gf174GP4",
+      "unit": "Port",
+      "tile": 1241416
+    },
+    {
+      "turn": 1534,
+      "builder": "Ub6XKWBc",
+      "unit": "City",
+      "tile": 32623
+    },
+    {
+      "turn": 1543,
+      "builder": "LNnFM2r6",
+      "unit": "City",
+      "tile": 263352
+    },
+    {
+      "turn": 1546,
+      "builder": "Dnw44ee6",
+      "unit": "City",
+      "tile": 60163
+    },
+    {
+      "turn": 1556,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 440893
+    },
+    {
+      "turn": 1569,
+      "builder": "4EiX6cZx",
+      "unit": "Port",
+      "tile": 1566124
+    },
+    {
+      "turn": 1577,
+      "builder": "4hJqHU8H",
+      "unit": "City",
+      "tile": 1358160
+    },
+    {
+      "turn": 1582,
+      "builder": "dkB9sFgP",
+      "unit": "Port",
+      "tile": 467534
+    },
+    {
+      "turn": 1588,
+      "builder": "yx4Q5CEG",
+      "unit": "Defense Post",
+      "tile": 646185
+    },
+    {
+      "turn": 1591,
+      "builder": "YDez8RLJ",
+      "unit": "Port",
+      "tile": 1043774
+    },
+    {
+      "turn": 1602,
+      "builder": "hcRqWZdY",
+      "unit": "City",
+      "tile": 218991
+    },
+    {
+      "turn": 1604,
+      "builder": "u8fAVVoQ",
+      "unit": "Port",
+      "tile": 724294
+    },
+    {
+      "turn": 1632,
+      "builder": "tPA57aWj",
+      "unit": "Port",
+      "tile": 738177
+    },
+    {
+      "turn": 1644,
+      "builder": "XjMzJvrR",
+      "unit": "Port",
+      "tile": 152884
+    },
+    {
+      "turn": 1651,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 188587
+    },
+    {
+      "turn": 1651,
+      "builder": "u8fAVVoQ",
+      "unit": "Warship",
+      "tile": 708914
+    },
+    {
+      "turn": 1662,
+      "builder": "SrEqRVU1",
+      "unit": "Port",
+      "tile": 212287
+    },
+    {
+      "turn": 1675,
+      "builder": "UvqqtaJh",
+      "unit": "City",
+      "tile": 881881
+    },
+    {
+      "turn": 1676,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1263660
+    },
+    {
+      "turn": 1699,
+      "builder": "hyRHu2VR",
+      "unit": "Factory",
+      "tile": 892423
+    },
+    {
+      "turn": 1702,
+      "builder": "9Zfm4Qmz",
+      "unit": "City",
+      "tile": 1095204
+    },
+    {
+      "turn": 1717,
+      "builder": "Dnw44ee6",
+      "unit": "Port",
+      "tile": 367756
+    },
+    {
+      "turn": 1718,
+      "builder": "9Zfm4Qmz",
+      "unit": "Defense Post",
+      "tile": 1141722
+    },
+    {
+      "turn": 1718,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1545292
+    },
+    {
+      "turn": 1735,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 53015
+    },
+    {
+      "turn": 1743,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1258924
+    },
+    {
+      "turn": 1745,
+      "builder": "4Vz3F32q",
+      "unit": "City",
+      "tile": 1378169
+    },
+    {
+      "turn": 1765,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1232870
+    },
+    {
+      "turn": 1771,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 523424
+    },
+    {
+      "turn": 1778,
+      "builder": "MLcjkhpq",
+      "unit": "Factory",
+      "tile": 398612
+    },
+    {
+      "turn": 1781,
+      "builder": "Ub6XKWBc",
+      "unit": "Port",
+      "tile": 50577
+    },
+    {
+      "turn": 1789,
+      "builder": "RFZevcvW",
+      "unit": "Factory",
+      "tile": 188419
+    },
+    {
+      "turn": 1861,
+      "builder": "8G1nUNPt",
+      "unit": "City",
+      "tile": 330633
+    },
+    {
+      "turn": 1877,
+      "builder": "raTCoQMZ",
+      "unit": "City",
+      "tile": 666973
+    },
+    {
+      "turn": 1882,
+      "builder": "byCEQXpb",
+      "unit": "Factory",
+      "tile": 667709
+    },
+    {
+      "turn": 1890,
+      "builder": "CoMjBmKe",
+      "unit": "Factory",
+      "tile": 69394
     },
     {
       "turn": 1904,
-      "builder": "j9AJhEzK",
-      "unit": "City",
-      "tile": 632620
-    },
-    {
-      "turn": 1992,
-      "builder": "BqG92cqL",
-      "unit": "City",
-      "tile": 1770453
-    },
-    {
-      "turn": 2011,
-      "builder": "cmatLMLQ",
-      "unit": "Warship",
-      "tile": 777136
-    },
-    {
-      "turn": 2021,
-      "builder": "TkhwKWmq",
-      "unit": "Factory",
-      "tile": 2647230
-    },
-    {
-      "turn": 2037,
-      "builder": "ZtTZtKnr",
-      "unit": "Defense Post",
-      "tile": 429918
-    },
-    {
-      "turn": 2045,
-      "builder": "rgFFYsKF",
-      "unit": "Defense Post",
-      "tile": 333986
-    },
-    {
-      "turn": 2054,
-      "builder": "BpMxuN6X",
-      "unit": "City",
-      "tile": 413498
-    },
-    {
-      "turn": 2056,
-      "builder": "kJbZPLjY",
-      "unit": "Defense Post",
-      "tile": 1208828
-    },
-    {
-      "turn": 2110,
-      "builder": "kJbZPLjY",
-      "unit": "City",
-      "tile": 863330
-    },
-    {
-      "turn": 2121,
-      "builder": "ic2kd51p",
-      "unit": "Factory",
-      "tile": 343049
-    },
-    {
-      "turn": 2163,
-      "builder": "CzSsLZJw",
-      "unit": "Defense Post",
-      "tile": 298690
-    },
-    {
-      "turn": 2170,
-      "builder": "9YZDstLy",
-      "unit": "City",
-      "tile": 215749
-    },
-    {
-      "turn": 2197,
-      "builder": "9YZDstLy",
-      "unit": "City",
-      "tile": 215712
-    },
-    {
-      "turn": 2237,
-      "builder": "kJbZPLjY",
+      "builder": "byCEQXpb",
       "unit": "Port",
-      "tile": 919300
+      "tile": 708226
+    },
+    {
+      "turn": 1907,
+      "builder": "8G1nUNPt",
+      "unit": "City",
+      "tile": 260158
+    },
+    {
+      "turn": 1911,
+      "builder": "YmAryEqh",
+      "unit": "Port",
+      "tile": 430933
+    },
+    {
+      "turn": 1912,
+      "builder": "raTCoQMZ",
+      "unit": "Defense Post",
+      "tile": 758565
+    },
+    {
+      "turn": 1913,
+      "builder": "wuWNQ2ry",
+      "unit": "Factory",
+      "tile": 1274203
+    },
+    {
+      "turn": 1914,
+      "builder": "cUJis2iX",
+      "unit": "Port",
+      "tile": 602357
+    },
+    {
+      "turn": 1932,
+      "builder": "MLcjkhpq",
+      "unit": "Defense Post",
+      "tile": 194670
+    },
+    {
+      "turn": 1946,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 538321
+    },
+    {
+      "turn": 1954,
+      "builder": "RFZevcvW",
+      "unit": "Warship",
+      "tile": 349016
+    },
+    {
+      "turn": 1963,
+      "builder": "raTCoQMZ",
+      "unit": "Port",
+      "tile": 699969
+    },
+    {
+      "turn": 1970,
+      "builder": "CoMjBmKe",
+      "unit": "Port",
+      "tile": 135419
+    },
+    {
+      "turn": 1982,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 763480
+    },
+    {
+      "turn": 1983,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1255841
+    },
+    {
+      "turn": 2004,
+      "builder": "YmAryEqh",
+      "unit": "City",
+      "tile": 384351
+    },
+    {
+      "turn": 2017,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 940452
+    },
+    {
+      "turn": 2032,
+      "builder": "Dnw44ee6",
+      "unit": "City",
+      "tile": 73814
+    },
+    {
+      "turn": 2038,
+      "builder": "Ub6XKWBc",
+      "unit": "Defense Post",
+      "tile": 65794
+    },
+    {
+      "turn": 2058,
+      "builder": "XFuP8RND",
+      "unit": "Port",
+      "tile": 1275477
+    },
+    {
+      "turn": 2073,
+      "builder": "gCCzeQxy",
+      "unit": "Factory",
+      "tile": 1312217
+    },
+    {
+      "turn": 2081,
+      "builder": "YmAryEqh",
+      "unit": "City",
+      "tile": 289861
+    },
+    {
+      "turn": 2104,
+      "builder": "Gf174GP4",
+      "unit": "Factory",
+      "tile": 1286444
+    },
+    {
+      "turn": 2108,
+      "builder": "MLcjkhpq",
+      "unit": "Defense Post",
+      "tile": 251616
+    },
+    {
+      "turn": 2111,
+      "builder": "LNnFM2r6",
+      "unit": "Factory",
+      "tile": 290295
+    },
+    {
+      "turn": 2147,
+      "builder": "Ub6XKWBc",
+      "unit": "Defense Post",
+      "tile": 134783
+    },
+    {
+      "turn": 2166,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 382092
+    },
+    {
+      "turn": 2177,
+      "builder": "YmAryEqh",
+      "unit": "Factory",
+      "tile": 354382
     },
     {
       "turn": 2239,
-      "builder": "W8TfiqpC",
-      "unit": "Factory",
-      "tile": 536778
+      "builder": "tPA57aWj",
+      "unit": "City",
+      "tile": 808517
     },
     {
-      "turn": 2251,
-      "builder": "ewkbruLh",
-      "unit": "City",
-      "tile": 1019984
+      "turn": 2241,
+      "builder": "XjMzJvrR",
+      "unit": "Defense Post",
+      "tile": 178250
+    },
+    {
+      "turn": 2263,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 434597
+    },
+    {
+      "turn": 2267,
+      "builder": "Dnw44ee6",
+      "unit": "Port",
+      "tile": 136641
     },
     {
       "turn": 2268,
-      "builder": "ewkbruLh",
-      "unit": "City",
-      "tile": 989551
-    },
-    {
-      "turn": 2275,
-      "builder": "9YZDstLy",
-      "unit": "Warship",
-      "tile": 418811
-    },
-    {
-      "turn": 2279,
-      "builder": "sM4zi325",
-      "unit": "Warship",
-      "tile": 335292
-    },
-    {
-      "turn": 2301,
-      "builder": "ewkbruLh",
-      "unit": "Port",
-      "tile": 1003913
-    },
-    {
-      "turn": 2321,
-      "builder": "ewkbruLh",
-      "unit": "Port",
-      "tile": 927187
-    },
-    {
-      "turn": 2337,
-      "builder": "m8M2MXdG",
-      "unit": "Port",
-      "tile": 808479
-    },
-    {
-      "turn": 2359,
-      "builder": "WyBQApHf",
+      "builder": "MLcjkhpq",
       "unit": "Defense Post",
-      "tile": 768701
+      "tile": 364162
     },
     {
-      "turn": 2365,
-      "builder": "m8M2MXdG",
-      "unit": "Port",
-      "tile": 1184573
-    },
-    {
-      "turn": 2390,
-      "builder": "m8M2MXdG",
-      "unit": "Port",
-      "tile": 992635
-    },
-    {
-      "turn": 2412,
-      "builder": "TkhwKWmq",
-      "unit": "City",
-      "tile": 2581595
-    },
-    {
-      "turn": 2412,
-      "builder": "m8M2MXdG",
+      "turn": 2276,
+      "builder": "hcRqWZdY",
       "unit": "Warship",
-      "tile": 962193
+      "tile": 284675
+    },
+    {
+      "turn": 2280,
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1367702
+    },
+    {
+      "turn": 2292,
+      "builder": "SrEqRVU1",
+      "unit": "City",
+      "tile": 131307
+    },
+    {
+      "turn": 2296,
+      "builder": "4hJqHU8H",
+      "unit": "Factory",
+      "tile": 1383624
+    },
+    {
+      "turn": 2303,
+      "builder": "XFuP8RND",
+      "unit": "City",
+      "tile": 1443481
+    },
+    {
+      "turn": 2303,
+      "builder": "9Zfm4Qmz",
+      "unit": "Port",
+      "tile": 1102723
+    },
+    {
+      "turn": 2316,
+      "builder": "YDez8RLJ",
+      "unit": "Defense Post",
+      "tile": 1090298
+    },
+    {
+      "turn": 2324,
+      "builder": "hyRHu2VR",
+      "unit": "Defense Post",
+      "tile": 725977
+    },
+    {
+      "turn": 2372,
+      "builder": "wkTUZNRE",
+      "unit": "Warship",
+      "tile": 1077245
+    },
+    {
+      "turn": 2373,
+      "builder": "SrEqRVU1",
+      "unit": "Defense Post",
+      "tile": 86094
+    },
+    {
+      "turn": 2378,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 390278
+    },
+    {
+      "turn": 2393,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 430182
+    },
+    {
+      "turn": 2415,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 409159
     },
     {
       "turn": 2447,
-      "builder": "CzSsLZJw",
+      "builder": "cUJis2iX",
+      "unit": "Warship",
+      "tile": 743260
+    },
+    {
+      "turn": 2462,
+      "builder": "hyRHu2VR",
       "unit": "Factory",
-      "tile": 337027
+      "tile": 859493
     },
     {
-      "turn": 2460,
-      "builder": "kJbZPLjY",
+      "turn": 2472,
+      "builder": "tPA57aWj",
       "unit": "Port",
-      "tile": 1304837
+      "tile": 1005228
     },
     {
-      "turn": 2500,
-      "builder": "rgFFYsKF",
+      "turn": 2478,
+      "builder": "9Zfm4Qmz",
+      "unit": "City",
+      "tile": 1116183
+    },
+    {
+      "turn": 2486,
+      "builder": "D42CRuf7",
       "unit": "Defense Post",
-      "tile": 321148
+      "tile": 744698
     },
     {
-      "turn": 2532,
-      "builder": "ZtTZtKnr",
+      "turn": 2493,
+      "builder": "tPA57aWj",
       "unit": "City",
-      "tile": 506702
+      "tile": 745607
     },
     {
-      "turn": 2558,
-      "builder": "m8M2MXdG",
-      "unit": "Warship",
-      "tile": 786052
-    },
-    {
-      "turn": 2614,
-      "builder": "m8M2MXdG",
-      "unit": "Warship",
-      "tile": 1261473
-    },
-    {
-      "turn": 2619,
-      "builder": "W8TfiqpC",
-      "unit": "Warship",
-      "tile": 370388
-    },
-    {
-      "turn": 2633,
-      "builder": "kJbZPLjY",
-      "unit": "Warship",
-      "tile": 1451970
-    },
-    {
-      "turn": 2639,
-      "builder": "BqG92cqL",
+      "turn": 2498,
+      "builder": "4Vz3F32q",
       "unit": "City",
-      "tile": 1773751
+      "tile": 1405128
     },
     {
-      "turn": 2678,
-      "builder": "cmatLMLQ",
+      "turn": 2503,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 746180
+    },
+    {
+      "turn": 2508,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 193944
+    },
+    {
+      "turn": 2511,
+      "builder": "XjMzJvrR",
       "unit": "City",
-      "tile": 665170
+      "tile": 136450
     },
     {
-      "turn": 2700,
-      "builder": "rgFFYsKF",
+      "turn": 2512,
+      "builder": "4EiX6cZx",
+      "unit": "Factory",
+      "tile": 1555616
+    },
+    {
+      "turn": 2514,
+      "builder": "Dnw44ee6",
       "unit": "Warship",
-      "tile": 361137
+      "tile": 824084
     },
     {
-      "turn": 2731,
-      "builder": "j9AJhEzK",
-      "unit": "Port",
-      "tile": 826129
-    },
-    {
-      "turn": 2777,
-      "builder": "BpMxuN6X",
+      "turn": 2518,
+      "builder": "YDez8RLJ",
       "unit": "City",
-      "tile": 451899
+      "tile": 968762
     },
     {
-      "turn": 2824,
-      "builder": "TkhwKWmq",
+      "turn": 2539,
+      "builder": "4hJqHU8H",
+      "unit": "Factory",
+      "tile": 1452566
+    },
+    {
+      "turn": 2545,
+      "builder": "tPA57aWj",
+      "unit": "City",
+      "tile": 772629
+    },
+    {
+      "turn": 2556,
+      "builder": "RFZevcvW",
       "unit": "Warship",
-      "tile": 1400709
+      "tile": 304097
+    },
+    {
+      "turn": 2570,
+      "builder": "cUJis2iX",
+      "unit": "Warship",
+      "tile": 675893
+    },
+    {
+      "turn": 2576,
+      "builder": "4hJqHU8H",
+      "unit": "City",
+      "tile": 1355208
+    },
+    {
+      "turn": 2579,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1225296
+    },
+    {
+      "turn": 2594,
+      "builder": "dkB9sFgP",
+      "unit": "City",
+      "tile": 578668
+    },
+    {
+      "turn": 2652,
+      "builder": "cUJis2iX",
+      "unit": "Factory",
+      "tile": 428156
+    },
+    {
+      "turn": 2658,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 323130
+    },
+    {
+      "turn": 2706,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 445137
+    },
+    {
+      "turn": 2711,
+      "builder": "Dnw44ee6",
+      "unit": "Defense Post",
+      "tile": 192280
+    },
+    {
+      "turn": 2728,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1592319
+    },
+    {
+      "turn": 2730,
+      "builder": "Dnw44ee6",
+      "unit": "Defense Post",
+      "tile": 277743
+    },
+    {
+      "turn": 2740,
+      "builder": "UvqqtaJh",
+      "unit": "Defense Post",
+      "tile": 866901
+    },
+    {
+      "turn": 2747,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 527853
+    },
+    {
+      "turn": 2750,
+      "builder": "Dnw44ee6",
+      "unit": "Defense Post",
+      "tile": 163855
+    },
+    {
+      "turn": 2751,
+      "builder": "hcRqWZdY",
+      "unit": "Defense Post",
+      "tile": 190312
+    },
+    {
+      "turn": 2813,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 577135
+    },
+    {
+      "turn": 2815,
+      "builder": "Dnw44ee6",
+      "unit": "Defense Post",
+      "tile": 363273
+    },
+    {
+      "turn": 2825,
+      "builder": "Gf174GP4",
+      "unit": "Defense Post",
+      "tile": 1317948
     },
     {
       "turn": 2834,
-      "builder": "j9AJhEzK",
+      "builder": "wuWNQ2ry",
       "unit": "City",
-      "tile": 720557
+      "tile": 1256292
     },
     {
-      "turn": 2854,
-      "builder": "rgFFYsKF",
-      "unit": "City",
-      "tile": 249148
+      "turn": 2841,
+      "builder": "4Vz3F32q",
+      "unit": "Warship",
+      "tile": 1208567
     },
     {
-      "turn": 2858,
-      "builder": "WyBQApHf",
-      "unit": "Port",
-      "tile": 818445
-    },
-    {
-      "turn": 2863,
-      "builder": "W8TfiqpC",
-      "unit": "City",
-      "tile": 453576
-    },
-    {
-      "turn": 2898,
-      "builder": "BqG92cqL",
-      "unit": "Port",
-      "tile": 1740213
-    },
-    {
-      "turn": 2913,
-      "builder": "kJbZPLjY",
+      "turn": 2843,
+      "builder": "Gf174GP4",
       "unit": "Defense Post",
-      "tile": 1284093
+      "tile": 1265401
     },
     {
-      "turn": 2929,
-      "builder": "TkhwKWmq",
-      "unit": "Port",
-      "tile": 2511167
+      "turn": 2882,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 431714
     },
     {
-      "turn": 2937,
-      "builder": "m8M2MXdG",
-      "unit": "Warship",
-      "tile": 1349490
+      "turn": 2905,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 421022
     },
     {
-      "turn": 2950,
-      "builder": "W8TfiqpC",
-      "unit": "Port",
-      "tile": 447155
+      "turn": 2909,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1293826
     },
     {
-      "turn": 2968,
-      "builder": "WyBQApHf",
+      "turn": 2910,
+      "builder": "SrEqRVU1",
+      "unit": "Defense Post",
+      "tile": 249666
+    },
+    {
+      "turn": 2941,
+      "builder": "XFuP8RND",
+      "unit": "Factory",
+      "tile": 1399998
+    },
+    {
+      "turn": 2943,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 436054
+    },
+    {
+      "turn": 2946,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1257852
+    },
+    {
+      "turn": 2951,
+      "builder": "u8fAVVoQ",
       "unit": "City",
-      "tile": 744830
+      "tile": 587588
     },
     {
-      "turn": 2974,
-      "builder": "4v35rEBF",
-      "unit": "Port",
-      "tile": 2706529
-    },
-    {
-      "turn": 3011,
-      "builder": "WyBQApHf",
-      "unit": "City",
-      "tile": 807276
-    },
-    {
-      "turn": 3018,
-      "builder": "W8TfiqpC",
+      "turn": 2972,
+      "builder": "4EiX6cZx",
       "unit": "Warship",
-      "tile": 333609
+      "tile": 1200359
+    },
+    {
+      "turn": 2978,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1308767
+    },
+    {
+      "turn": 2983,
+      "builder": "4Vz3F32q",
+      "unit": "Port",
+      "tile": 1274596
+    },
+    {
+      "turn": 2992,
+      "builder": "XjMzJvrR",
+      "unit": "City",
+      "tile": 307465
+    },
+    {
+      "turn": 3002,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1014154
+    },
+    {
+      "turn": 3004,
+      "builder": "Gf174GP4",
+      "unit": "Defense Post",
+      "tile": 1292467
+    },
+    {
+      "turn": 3025,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1011190
     },
     {
       "turn": 3042,
-      "builder": "9YZDstLy",
-      "unit": "Port",
-      "tile": 519666
+      "builder": "SrEqRVU1",
+      "unit": "Defense Post",
+      "tile": 183616
     },
     {
-      "turn": 3045,
-      "builder": "sM4zi325",
+      "turn": 3078,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 990016
+    },
+    {
+      "turn": 3126,
+      "builder": "LNnFM2r6",
       "unit": "City",
-      "tile": 402622
+      "tile": 338284
     },
     {
-      "turn": 3072,
-      "builder": "9YZDstLy",
+      "turn": 3139,
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1339108
+    },
+    {
+      "turn": 3193,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 382131
+    },
+    {
+      "turn": 3214,
+      "builder": "u8fAVVoQ",
       "unit": "City",
-      "tile": 350125
+      "tile": 572806
     },
     {
-      "turn": 3075,
-      "builder": "ZtTZtKnr",
+      "turn": 3263,
+      "builder": "UvqqtaJh",
+      "unit": "Factory",
+      "tile": 887841
+    },
+    {
+      "turn": 3265,
+      "builder": "Dnw44ee6",
       "unit": "Warship",
-      "tile": 495467
+      "tile": 732561
     },
     {
-      "turn": 3083,
-      "builder": "9YZDstLy",
+      "turn": 3267,
+      "builder": "wuWNQ2ry",
       "unit": "Warship",
-      "tile": 318046
+      "tile": 1227882
     },
     {
-      "turn": 3087,
-      "builder": "sM4zi325",
-      "unit": "Warship",
-      "tile": 327275
+      "turn": 3270,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1617409
     },
     {
-      "turn": 3124,
-      "builder": "rgFFYsKF",
-      "unit": "Warship",
-      "tile": 414019
+      "turn": 3282,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1140236
     },
     {
-      "turn": 3253,
-      "builder": "9YZDstLy",
-      "unit": "Warship",
-      "tile": 505236
+      "turn": 3285,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 621841
     },
     {
-      "turn": 3269,
-      "builder": "kJbZPLjY",
-      "unit": "Warship",
-      "tile": 1076154
+      "turn": 3317,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 893675
     },
     {
-      "turn": 3287,
-      "builder": "j9AJhEzK",
+      "turn": 3320,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1216743
+    },
+    {
+      "turn": 3322,
+      "builder": "dkB9sFgP",
       "unit": "Port",
-      "tile": 890163
+      "tile": 587700
     },
     {
-      "turn": 3305,
-      "builder": "m8M2MXdG",
-      "unit": "Port",
-      "tile": 1319133
-    },
-    {
-      "turn": 3309,
-      "builder": "WyBQApHf",
-      "unit": "Port",
-      "tile": 711146
+      "turn": 3342,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1245277
     },
     {
       "turn": 3344,
-      "builder": "W8TfiqpC",
-      "unit": "City",
-      "tile": 501565
-    },
-    {
-      "turn": 3388,
-      "builder": "9YZDstLy",
-      "unit": "Warship",
-      "tile": 495632
-    },
-    {
-      "turn": 3390,
-      "builder": "BqG92cqL",
+      "builder": "tPA57aWj",
       "unit": "Factory",
-      "tile": 1308090
+      "tile": 756153
     },
     {
-      "turn": 3393,
-      "builder": "BpMxuN6X",
+      "turn": 3385,
+      "builder": "gCCzeQxy",
       "unit": "Factory",
-      "tile": 479120
+      "tile": 1319835
     },
     {
-      "turn": 3399,
-      "builder": "sM4zi325",
+      "turn": 3395,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1264808
+    },
+    {
+      "turn": 3411,
+      "builder": "gCCzeQxy",
       "unit": "City",
-      "tile": 168880
+      "tile": 1390319
     },
     {
-      "turn": 3405,
-      "builder": "BqG92cqL",
-      "unit": "Port",
-      "tile": 1218536
+      "turn": 3413,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 764825
     },
     {
-      "turn": 3415,
-      "builder": "TkhwKWmq",
-      "unit": "Port",
-      "tile": 1949670
-    },
-    {
-      "turn": 3417,
-      "builder": "WyBQApHf",
+      "turn": 3432,
+      "builder": "4EiX6cZx",
       "unit": "Defense Post",
-      "tile": 848742
+      "tile": 1266200
     },
     {
-      "turn": 3430,
-      "builder": "WyBQApHf",
-      "unit": "Defense Post",
-      "tile": 885575
-    },
-    {
-      "turn": 3441,
-      "builder": "BpMxuN6X",
+      "turn": 3442,
+      "builder": "gCCzeQxy",
       "unit": "City",
-      "tile": 357475
+      "tile": 1345419
     },
     {
-      "turn": 3461,
-      "builder": "rgFFYsKF",
-      "unit": "Warship",
-      "tile": 309923
-    },
-    {
-      "turn": 3472,
-      "builder": "W8TfiqpC",
+      "turn": 3475,
+      "builder": "tPA57aWj",
       "unit": "Defense Post",
-      "tile": 549620
+      "tile": 1087558
     },
     {
-      "turn": 3484,
-      "builder": "4v35rEBF",
-      "unit": "Warship",
-      "tile": 1488722
+      "turn": 3494,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1096607
     },
     {
-      "turn": 3491,
-      "builder": "j9AJhEzK",
+      "turn": 3516,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 391185
+    },
+    {
+      "turn": 3517,
+      "builder": "wkTUZNRE",
       "unit": "Port",
-      "tile": 509428
+      "tile": 1347308
     },
     {
-      "turn": 3496,
-      "builder": "W8TfiqpC",
+      "turn": 3524,
+      "builder": "LNnFM2r6",
       "unit": "Defense Post",
-      "tile": 576787
+      "tile": 321737
     },
     {
-      "turn": 3511,
-      "builder": "BqG92cqL",
-      "unit": "Defense Post",
-      "tile": 914522
+      "turn": 3532,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1375771
     },
     {
-      "turn": 3513,
-      "builder": "j9AJhEzK",
-      "unit": "Defense Post",
-      "tile": 459747
+      "turn": 3558,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 10854
     },
     {
-      "turn": 3526,
-      "builder": "BpMxuN6X",
+      "turn": 3568,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 808123
+    },
+    {
+      "turn": 3573,
+      "builder": "Dnw44ee6",
       "unit": "Warship",
-      "tile": 359252
+      "tile": 826939
     },
     {
-      "turn": 3552,
-      "builder": "BqG92cqL",
+      "turn": 3574,
+      "builder": "Gf174GP4",
+      "unit": "City",
+      "tile": 1286564
+    },
+    {
+      "turn": 3575,
+      "builder": "u8fAVVoQ",
+      "unit": "City",
+      "tile": 649354
+    },
+    {
+      "turn": 3583,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 385064
+    },
+    {
+      "turn": 3586,
+      "builder": "XjMzJvrR",
+      "unit": "Defense Post",
+      "tile": 217436
+    },
+    {
+      "turn": 3588,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 374241
+    },
+    {
+      "turn": 3595,
+      "builder": "Gf174GP4",
+      "unit": "City",
+      "tile": 1286563
+    },
+    {
+      "turn": 3603,
+      "builder": "XjMzJvrR",
+      "unit": "Defense Post",
+      "tile": 191907
+    },
+    {
+      "turn": 3606,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 352396
+    },
+    {
+      "turn": 3610,
+      "builder": "tPA57aWj",
+      "unit": "Factory",
+      "tile": 805575
+    },
+    {
+      "turn": 3621,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 358117
+    },
+    {
+      "turn": 3684,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 409214
+    },
+    {
+      "turn": 3750,
+      "builder": "hyRHu2VR",
+      "unit": "Factory",
+      "tile": 1024340
+    },
+    {
+      "turn": 3751,
+      "builder": "CoMjBmKe",
+      "unit": "Factory",
+      "tile": 295915
+    },
+    {
+      "turn": 3759,
+      "builder": "4hJqHU8H",
       "unit": "SAM Launcher",
-      "tile": 1608885
+      "tile": 1331183
     },
     {
-      "turn": 3572,
-      "builder": "m8M2MXdG",
-      "unit": "Defense Post",
-      "tile": 1008770
-    },
-    {
-      "turn": 3597,
-      "builder": "W8TfiqpC",
-      "unit": "Factory",
-      "tile": 460005
-    },
-    {
-      "turn": 3597,
-      "builder": "9YZDstLy",
-      "unit": "Port",
-      "tile": 463658
-    },
-    {
-      "turn": 3649,
-      "builder": "4v35rEBF",
+      "turn": 3780,
+      "builder": "gCCzeQxy",
       "unit": "City",
-      "tile": 2773739
+      "tile": 1438384
     },
     {
-      "turn": 3698,
-      "builder": "4v35rEBF",
+      "turn": 3791,
+      "builder": "u8fAVVoQ",
+      "unit": "SAM Launcher",
+      "tile": 598282
+    },
+    {
+      "turn": 3809,
+      "builder": "LNnFM2r6",
       "unit": "Factory",
-      "tile": 2832902
+      "tile": 321874
+    },
+    {
+      "turn": 3810,
+      "builder": "Dnw44ee6",
+      "unit": "Port",
+      "tile": 384149
+    },
+    {
+      "turn": 3812,
+      "builder": "hyRHu2VR",
+      "unit": "Port",
+      "tile": 922313
+    },
+    {
+      "turn": 3831,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 434241
+    },
+    {
+      "turn": 3832,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1518821
+    },
+    {
+      "turn": 3844,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 181866
+    },
+    {
+      "turn": 3848,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1208092
+    },
+    {
+      "turn": 3865,
+      "builder": "D42CRuf7",
+      "unit": "Port",
+      "tile": 880126
     },
     {
       "turn": 3869,
-      "builder": "9YZDstLy",
-      "unit": "Port",
-      "tile": 529182
+      "builder": "tPA57aWj",
+      "unit": "Warship",
+      "tile": 981267
     },
     {
-      "turn": 3904,
-      "builder": "9YZDstLy",
-      "unit": "SAM Launcher",
-      "tile": 637951
+      "turn": 3875,
+      "builder": "gCCzeQxy",
+      "unit": "Warship",
+      "tile": 1205466
     },
     {
-      "turn": 3956,
-      "builder": "m8M2MXdG",
+      "turn": 3880,
+      "builder": "u8fAVVoQ",
       "unit": "City",
-      "tile": 1008412
+      "tile": 604339
     },
     {
-      "turn": 3979,
-      "builder": "ZtTZtKnr",
+      "turn": 3888,
+      "builder": "4Vz3F32q",
+      "unit": "City",
+      "tile": 1409695
+    },
+    {
+      "turn": 3923,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 362706
+    },
+    {
+      "turn": 3943,
+      "builder": "dkB9sFgP",
+      "unit": "City",
+      "tile": 569725
+    },
+    {
+      "turn": 3978,
+      "builder": "Ub6XKWBc",
+      "unit": "Defense Post",
+      "tile": 107935
+    },
+    {
+      "turn": 3991,
+      "builder": "wuWNQ2ry",
+      "unit": "Warship",
+      "tile": 1238592
+    },
+    {
+      "turn": 4017,
+      "builder": "Ub6XKWBc",
       "unit": "Factory",
-      "tile": 548291
+      "tile": 169151
     },
     {
-      "turn": 4037,
-      "builder": "W8TfiqpC",
-      "unit": "City",
-      "tile": 522402
+      "turn": 4038,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 221947
     },
     {
-      "turn": 4040,
-      "builder": "j9AJhEzK",
+      "turn": 4050,
+      "builder": "4Vz3F32q",
+      "unit": "Warship",
+      "tile": 1188954
+    },
+    {
+      "turn": 4061,
+      "builder": "hyRHu2VR",
       "unit": "Port",
-      "tile": 672685
+      "tile": 896814
     },
     {
       "turn": 4064,
-      "builder": "4v35rEBF",
+      "builder": "wkTUZNRE",
       "unit": "City",
-      "tile": 2948116
+      "tile": 1564980
     },
     {
-      "turn": 4064,
-      "builder": "j9AJhEzK",
+      "turn": 4072,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1366018
+    },
+    {
+      "turn": 4084,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 613317
+    },
+    {
+      "turn": 4084,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1437989
+    },
+    {
+      "turn": 4097,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1275912
+    },
+    {
+      "turn": 4123,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1343372
+    },
+    {
+      "turn": 4172,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 121731
+    },
+    {
+      "turn": 4182,
+      "builder": "dkB9sFgP",
       "unit": "Port",
-      "tile": 566898
+      "tile": 602728
     },
     {
-      "turn": 4092,
-      "builder": "sM4zi325",
-      "unit": "Warship",
-      "tile": 436127
+      "turn": 4195,
+      "builder": "tPA57aWj",
+      "unit": "SAM Launcher",
+      "tile": 748624
     },
     {
-      "turn": 4092,
-      "builder": "BpMxuN6X",
-      "unit": "Missile Silo",
-      "tile": 410413
-    },
-    {
-      "turn": 4127,
-      "builder": "TkhwKWmq",
-      "unit": "Warship",
-      "tile": 1416727
-    },
-    {
-      "turn": 4151,
-      "builder": "rgFFYsKF",
-      "unit": "Warship",
-      "tile": 365939
-    },
-    {
-      "turn": 4183,
-      "builder": "4v35rEBF",
-      "unit": "Warship",
-      "tile": 1439135
-    },
-    {
-      "turn": 4185,
-      "builder": "m8M2MXdG",
-      "unit": "Warship",
-      "tile": 309645
+      "turn": 4215,
+      "builder": "NBqRgbML",
+      "unit": "Port",
+      "tile": 88495
     },
     {
       "turn": 4221,
-      "builder": "BpMxuN6X",
-      "unit": "Atom Bomb",
-      "tile": 674497
-    },
-    {
-      "turn": 4397,
-      "builder": "BqG92cqL",
+      "builder": "u8fAVVoQ",
       "unit": "Warship",
-      "tile": 412103
+      "tile": 564940
     },
     {
-      "turn": 4399,
-      "builder": "4v35rEBF",
+      "turn": 4228,
+      "builder": "CoMjBmKe",
       "unit": "SAM Launcher",
-      "tile": 2780100
+      "tile": 100930
     },
     {
-      "turn": 4409,
-      "builder": "BqG92cqL",
-      "unit": "Warship",
-      "tile": 751446
+      "turn": 4252,
+      "builder": "RFZevcvW",
+      "unit": "City",
+      "tile": 53493
     },
     {
-      "turn": 4423,
-      "builder": "BqG92cqL",
-      "unit": "Warship",
-      "tile": 612246
-    },
-    {
-      "turn": 4479,
-      "builder": "ZtTZtKnr",
-      "unit": "Warship",
-      "tile": 543426
-    },
-    {
-      "turn": 4512,
-      "builder": "rgFFYsKF",
-      "unit": "Defense Post",
-      "tile": 349926
-    },
-    {
-      "turn": 4552,
-      "builder": "sM4zi325",
-      "unit": "Port",
-      "tile": 421775
-    },
-    {
-      "turn": 4595,
-      "builder": "sM4zi325",
-      "unit": "Warship",
-      "tile": 423338
-    },
-    {
-      "turn": 4604,
-      "builder": "m8M2MXdG",
+      "turn": 4253,
+      "builder": "tPA57aWj",
       "unit": "Missile Silo",
-      "tile": 990753
+      "tile": 724577
     },
     {
-      "turn": 4628,
-      "builder": "ZtTZtKnr",
+      "turn": 4266,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 539568
+    },
+    {
+      "turn": 4272,
+      "builder": "CoMjBmKe",
       "unit": "Defense Post",
-      "tile": 514584
+      "tile": 399639
     },
     {
-      "turn": 4629,
-      "builder": "m8M2MXdG",
+      "turn": 4277,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 356639
+    },
+    {
+      "turn": 4310,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 388136
+    },
+    {
+      "turn": 4316,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 409191
+    },
+    {
+      "turn": 4323,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 391072
+    },
+    {
+      "turn": 4325,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 976390
+    },
+    {
+      "turn": 4340,
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1399097
+    },
+    {
+      "turn": 4347,
+      "builder": "Ub6XKWBc",
+      "unit": "Port",
+      "tile": 124374
+    },
+    {
+      "turn": 4370,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 422114
+    },
+    {
+      "turn": 4371,
+      "builder": "4hJqHU8H",
+      "unit": "Port",
+      "tile": 1362832
+    },
+    {
+      "turn": 4394,
+      "builder": "u8fAVVoQ",
+      "unit": "Missile Silo",
+      "tile": 632827
+    },
+    {
+      "turn": 4415,
+      "builder": "gCCzeQxy",
+      "unit": "Factory",
+      "tile": 1439769
+    },
+    {
+      "turn": 4444,
+      "builder": "D42CRuf7",
+      "unit": "Factory",
+      "tile": 842654
+    },
+    {
+      "turn": 4467,
+      "builder": "4EiX6cZx",
       "unit": "Warship",
-      "tile": 1285446
+      "tile": 1177838
     },
     {
-      "turn": 4654,
-      "builder": "m8M2MXdG",
+      "turn": 4470,
+      "builder": "RFZevcvW",
       "unit": "Warship",
-      "tile": 930162
+      "tile": 563403
     },
     {
-      "turn": 4669,
-      "builder": "9YZDstLy",
+      "turn": 4485,
+      "builder": "CoMjBmKe",
+      "unit": "Warship",
+      "tile": 451959
+    },
+    {
+      "turn": 4485,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 764703
+    },
+    {
+      "turn": 4488,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 452771
+    },
+    {
+      "turn": 4504,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 1114378
+    },
+    {
+      "turn": 4509,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 928232
+    },
+    {
+      "turn": 4539,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 827631
+    },
+    {
+      "turn": 4559,
+      "builder": "4EiX6cZx",
+      "unit": "Warship",
+      "tile": 1173342
+    },
+    {
+      "turn": 4571,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1314959
+    },
+    {
+      "turn": 4579,
+      "builder": "CoMjBmKe",
+      "unit": "Missile Silo",
+      "tile": 93427
+    },
+    {
+      "turn": 4583,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1414158
+    },
+    {
+      "turn": 4590,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 581372
+    },
+    {
+      "turn": 4590,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1398894
+    },
+    {
+      "turn": 4608,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1197650
+    },
+    {
+      "turn": 4611,
+      "builder": "XjMzJvrR",
+      "unit": "Port",
+      "tile": 65999
+    },
+    {
+      "turn": 4616,
+      "builder": "u8fAVVoQ",
+      "unit": "Port",
+      "tile": 510991
+    },
+    {
+      "turn": 4636,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 332638
+    },
+    {
+      "turn": 4647,
+      "builder": "XFuP8RND",
+      "unit": "Missile Silo",
+      "tile": 1365545
+    },
+    {
+      "turn": 4653,
+      "builder": "RFZevcvW",
+      "unit": "Defense Post",
+      "tile": 353714
+    },
+    {
+      "turn": 4693,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1233223
+    },
+    {
+      "turn": 4702,
+      "builder": "4Vz3F32q",
+      "unit": "City",
+      "tile": 1544712
+    },
+    {
+      "turn": 4706,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1392794
+    },
+    {
+      "turn": 4713,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1460249
+    },
+    {
+      "turn": 4737,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1284004
+    },
+    {
+      "turn": 4751,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1201549
+    },
+    {
+      "turn": 4761,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 462737
+    },
+    {
+      "turn": 4766,
+      "builder": "dkB9sFgP",
       "unit": "SAM Launcher",
-      "tile": 92308
+      "tile": 565188
     },
     {
-      "turn": 4736,
-      "builder": "4v35rEBF",
-      "unit": "Missile Silo",
-      "tile": 2775319
+      "turn": 4774,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 1142908
     },
     {
-      "turn": 4777,
-      "builder": "9YZDstLy",
-      "unit": "Port",
-      "tile": 213905
+      "turn": 4797,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1352615
+    },
+    {
+      "turn": 4818,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1511275
     },
     {
       "turn": 4870,
-      "builder": "BqG92cqL",
-      "unit": "Hydrogen Bomb",
-      "tile": 527510
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1495188
     },
     {
-      "turn": 4872,
-      "builder": "TkhwKWmq",
-      "unit": "Warship",
-      "tile": 1344720
+      "turn": 4898,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1324662
     },
     {
-      "turn": 4961,
-      "builder": "BqG92cqL",
-      "unit": "Hydrogen Bomb",
-      "tile": 314610
+      "turn": 4899,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 366705
     },
     {
-      "turn": 5036,
-      "builder": "4v35rEBF",
-      "unit": "Atom Bomb",
-      "tile": 279550
+      "turn": 4913,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1242284
     },
     {
-      "turn": 5062,
-      "builder": "BqG92cqL",
-      "unit": "Hydrogen Bomb",
-      "tile": 377222
-    },
-    {
-      "turn": 5135,
-      "builder": "4v35rEBF",
-      "unit": "Atom Bomb",
-      "tile": 212528
-    },
-    {
-      "turn": 5157,
-      "builder": "sM4zi325",
-      "unit": "City",
-      "tile": 240898
-    },
-    {
-      "turn": 5214,
-      "builder": "BqG92cqL",
+      "turn": 4915,
+      "builder": "u8fAVVoQ",
       "unit": "Missile Silo",
-      "tile": 485623
+      "tile": 641645
     },
     {
-      "turn": 5240,
-      "builder": "sM4zi325",
+      "turn": 4949,
+      "builder": "4Vz3F32q",
+      "unit": "City",
+      "tile": 1526767
+    },
+    {
+      "turn": 4971,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1266184
+    },
+    {
+      "turn": 4975,
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1558246
+    },
+    {
+      "turn": 4983,
+      "builder": "RFZevcvW",
       "unit": "Warship",
-      "tile": 212005
+      "tile": 660875
     },
     {
-      "turn": 5358,
-      "builder": "BqG92cqL",
-      "unit": "Atom Bomb",
-      "tile": 106710
+      "turn": 4991,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1182238
     },
     {
-      "turn": 5372,
-      "builder": "BqG92cqL",
-      "unit": "Hydrogen Bomb",
-      "tile": 175506
-    },
-    {
-      "turn": 5495,
-      "builder": "BqG92cqL",
-      "unit": "Hydrogen Bomb",
-      "tile": 242535
-    },
-    {
-      "turn": 5531,
-      "builder": "TkhwKWmq",
+      "turn": 4997,
+      "builder": "RFZevcvW",
       "unit": "Warship",
-      "tile": 861330
+      "tile": 702889
     },
     {
-      "turn": 5648,
-      "builder": "BqG92cqL",
-      "unit": "Atom Bomb",
-      "tile": 350130
+      "turn": 5001,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 241761
     },
     {
-      "turn": 5668,
-      "builder": "BqG92cqL",
+      "turn": 5026,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 225447
+    },
+    {
+      "turn": 5026,
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1508639
+    },
+    {
+      "turn": 5029,
+      "builder": "hyRHu2VR",
+      "unit": "Port",
+      "tile": 799303
+    },
+    {
+      "turn": 5033,
+      "builder": "Dnw44ee6",
+      "unit": "Port",
+      "tile": 190530
+    },
+    {
+      "turn": 5040,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 439303
+    },
+    {
+      "turn": 5047,
+      "builder": "wuWNQ2ry",
+      "unit": "Factory",
+      "tile": 1233540
+    },
+    {
+      "turn": 5052,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 366765
+    },
+    {
+      "turn": 5066,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 776689
+    },
+    {
+      "turn": 5068,
+      "builder": "u8fAVVoQ",
+      "unit": "Hydrogen Bomb",
+      "tile": 860908
+    },
+    {
+      "turn": 5069,
+      "builder": "Dnw44ee6",
+      "unit": "Port",
+      "tile": 132381
+    },
+    {
+      "turn": 5074,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 382318
+    },
+    {
+      "turn": 5077,
+      "builder": "hyRHu2VR",
+      "unit": "City",
+      "tile": 709367
+    },
+    {
+      "turn": 5080,
+      "builder": "Ub6XKWBc",
+      "unit": "City",
+      "tile": 155919
+    },
+    {
+      "turn": 5091,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 360807
+    },
+    {
+      "turn": 5105,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 414779
+    },
+    {
+      "turn": 5116,
+      "builder": "tPA57aWj",
       "unit": "Atom Bomb",
-      "tile": 658775
+      "tile": 1551116
+    },
+    {
+      "turn": 5116,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1360727
+    },
+    {
+      "turn": 5125,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 359327
+    },
+    {
+      "turn": 5159,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1379710
+    },
+    {
+      "turn": 5163,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 398863
+    },
+    {
+      "turn": 5165,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 877778
+    },
+    {
+      "turn": 5175,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1420123
+    },
+    {
+      "turn": 5258,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1362540
+    },
+    {
+      "turn": 5265,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1427318
+    },
+    {
+      "turn": 5274,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1507878
+    },
+    {
+      "turn": 5286,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 651727
+    },
+    {
+      "turn": 5310,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 337338
+    },
+    {
+      "turn": 5346,
+      "builder": "u8fAVVoQ",
+      "unit": "Hydrogen Bomb",
+      "tile": 189936
+    },
+    {
+      "turn": 5348,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1166981
+    },
+    {
+      "turn": 5348,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 403714
+    },
+    {
+      "turn": 5351,
+      "builder": "4EiX6cZx",
+      "unit": "Port",
+      "tile": 1483668
+    },
+    {
+      "turn": 5390,
+      "builder": "CoMjBmKe",
+      "unit": "Warship",
+      "tile": 251263
+    },
+    {
+      "turn": 5397,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 247932
+    },
+    {
+      "turn": 5409,
+      "builder": "4EiX6cZx",
+      "unit": "Factory",
+      "tile": 1510711
+    },
+    {
+      "turn": 5432,
+      "builder": "Dnw44ee6",
+      "unit": "Factory",
+      "tile": 498333
+    },
+    {
+      "turn": 5435,
+      "builder": "gCCzeQxy",
+      "unit": "SAM Launcher",
+      "tile": 1271752
+    },
+    {
+      "turn": 5457,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1268774
+    },
+    {
+      "turn": 5483,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1295803
+    },
+    {
+      "turn": 5486,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 809225
+    },
+    {
+      "turn": 5521,
+      "builder": "LNnFM2r6",
+      "unit": "Defense Post",
+      "tile": 332261
+    },
+    {
+      "turn": 5523,
+      "builder": "tPA57aWj",
+      "unit": "City",
+      "tile": 762046
+    },
+    {
+      "turn": 5551,
+      "builder": "4hJqHU8H",
+      "unit": "Defense Post",
+      "tile": 1610254
+    },
+    {
+      "turn": 5563,
+      "builder": "4EiX6cZx",
+      "unit": "Warship",
+      "tile": 1204834
+    },
+    {
+      "turn": 5563,
+      "builder": "XFuP8RND",
+      "unit": "Missile Silo",
+      "tile": 1415074
+    },
+    {
+      "turn": 5575,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 383681
+    },
+    {
+      "turn": 5582,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1294580
+    },
+    {
+      "turn": 5587,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 554785
+    },
+    {
+      "turn": 5602,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1330613
+    },
+    {
+      "turn": 5610,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 684690
+    },
+    {
+      "turn": 5613,
+      "builder": "Ub6XKWBc",
+      "unit": "Defense Post",
+      "tile": 343141
+    },
+    {
+      "turn": 5615,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 1011595
+    },
+    {
+      "turn": 5620,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 286382
+    },
+    {
+      "turn": 5630,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 636702
+    },
+    {
+      "turn": 5642,
+      "builder": "4EiX6cZx",
+      "unit": "City",
+      "tile": 1488198
+    },
+    {
+      "turn": 5645,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 587251
+    },
+    {
+      "turn": 5664,
+      "builder": "tPA57aWj",
+      "unit": "City",
+      "tile": 687041
+    },
+    {
+      "turn": 5688,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1320814
+    },
+    {
+      "turn": 5690,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 753195
+    },
+    {
+      "turn": 5714,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1238208
+    },
+    {
+      "turn": 5715,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 676640
+    },
+    {
+      "turn": 5735,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1275656
+    },
+    {
+      "turn": 5745,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 563830
+    },
+    {
+      "turn": 5763,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1230593
     },
     {
       "turn": 5766,
-      "builder": "BqG92cqL",
-      "unit": "Atom Bomb",
-      "tile": 513268
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 359227
     },
     {
-      "turn": 5842,
-      "builder": "BqG92cqL",
+      "turn": 5775,
+      "builder": "tPA57aWj",
+      "unit": "Missile Silo",
+      "tile": 759091
+    },
+    {
+      "turn": 5798,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1572541
+    },
+    {
+      "turn": 5803,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1319396
+    },
+    {
+      "turn": 5814,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1478170
+    },
+    {
+      "turn": 5827,
+      "builder": "Dnw44ee6",
+      "unit": "SAM Launcher",
+      "tile": 325805
+    },
+    {
+      "turn": 5835,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1349233
+    },
+    {
+      "turn": 5843,
+      "builder": "wkTUZNRE",
+      "unit": "Factory",
+      "tile": 1593207
+    },
+    {
+      "turn": 5859,
+      "builder": "Ub6XKWBc",
+      "unit": "City",
+      "tile": 106416
+    },
+    {
+      "turn": 5932,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 171830
+    },
+    {
+      "turn": 5934,
+      "builder": "wkTUZNRE",
+      "unit": "Missile Silo",
+      "tile": 1413321
+    },
+    {
+      "turn": 5953,
+      "builder": "4Vz3F32q",
+      "unit": "Factory",
+      "tile": 1553667
+    },
+    {
+      "turn": 5958,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 252835
+    },
+    {
+      "turn": 5976,
+      "builder": "u8fAVVoQ",
+      "unit": "City",
+      "tile": 571352
+    },
+    {
+      "turn": 5980,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 644275
+    },
+    {
+      "turn": 5988,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 77479
+    },
+    {
+      "turn": 6007,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 920713
+    },
+    {
+      "turn": 6045,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 162499
+    },
+    {
+      "turn": 6046,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1368130
+    },
+    {
+      "turn": 6069,
+      "builder": "4EiX6cZx",
+      "unit": "Defense Post",
+      "tile": 1264810
+    },
+    {
+      "turn": 6094,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 114685
+    },
+    {
+      "turn": 6110,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 560384
+    },
+    {
+      "turn": 6116,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 2262
+    },
+    {
+      "turn": 6134,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 558891
+    },
+    {
+      "turn": 6145,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1317709
+    },
+    {
+      "turn": 6169,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1427134
+    },
+    {
+      "turn": 6208,
+      "builder": "wkTUZNRE",
       "unit": "Atom Bomb",
-      "tile": 516185
+      "tile": 1390145
+    },
+    {
+      "turn": 6217,
+      "builder": "Ub6XKWBc",
+      "unit": "Warship",
+      "tile": 319077
+    },
+    {
+      "turn": 6254,
+      "builder": "Dnw44ee6",
+      "unit": "Port",
+      "tile": 582356
+    },
+    {
+      "turn": 6259,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 245915
+    },
+    {
+      "turn": 6273,
+      "builder": "Ub6XKWBc",
+      "unit": "Defense Post",
+      "tile": 46171
+    },
+    {
+      "turn": 6274,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 407955
+    },
+    {
+      "turn": 6287,
+      "builder": "u8fAVVoQ",
+      "unit": "City",
+      "tile": 863829
+    },
+    {
+      "turn": 6287,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1494614
+    },
+    {
+      "turn": 6288,
+      "builder": "4Vz3F32q",
+      "unit": "City",
+      "tile": 1541602
+    },
+    {
+      "turn": 6296,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 608929
+    },
+    {
+      "turn": 6297,
+      "builder": "Ub6XKWBc",
+      "unit": "Defense Post",
+      "tile": 53740
+    },
+    {
+      "turn": 6298,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 573876
+    },
+    {
+      "turn": 6302,
+      "builder": "Dnw44ee6",
+      "unit": "City",
+      "tile": 565767
+    },
+    {
+      "turn": 6309,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 568393
+    },
+    {
+      "turn": 6339,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 490461
+    },
+    {
+      "turn": 6342,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1491186
+    },
+    {
+      "turn": 6348,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1256241
+    },
+    {
+      "turn": 6399,
+      "builder": "4EiX6cZx",
+      "unit": "Warship",
+      "tile": 1431094
+    },
+    {
+      "turn": 6418,
+      "builder": "CoMjBmKe",
+      "unit": "SAM Launcher",
+      "tile": 180788
+    },
+    {
+      "turn": 6426,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1505073
+    },
+    {
+      "turn": 6430,
+      "builder": "u8fAVVoQ",
+      "unit": "Warship",
+      "tile": 507932
+    },
+    {
+      "turn": 6440,
+      "builder": "u8fAVVoQ",
+      "unit": "Warship",
+      "tile": 507915
+    },
+    {
+      "turn": 6451,
+      "builder": "XFuP8RND",
+      "unit": "Atom Bomb",
+      "tile": 1503566
+    },
+    {
+      "turn": 6461,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 374278
+    },
+    {
+      "turn": 6464,
+      "builder": "u8fAVVoQ",
+      "unit": "Warship",
+      "tile": 519890
+    },
+    {
+      "turn": 6468,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1334287
+    },
+    {
+      "turn": 6475,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1334146
+    },
+    {
+      "turn": 6487,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 357880
+    },
+    {
+      "turn": 6490,
+      "builder": "4EiX6cZx",
+      "unit": "Port",
+      "tile": 1381754
+    },
+    {
+      "turn": 6499,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 1261317
+    },
+    {
+      "turn": 6526,
+      "builder": "Dnw44ee6",
+      "unit": "Missile Silo",
+      "tile": 2
+    },
+    {
+      "turn": 6570,
+      "builder": "D42CRuf7",
+      "unit": "Port",
+      "tile": 704218
+    },
+    {
+      "turn": 6585,
+      "builder": "dkB9sFgP",
+      "unit": "Missile Silo",
+      "tile": 584749
+    },
+    {
+      "turn": 6593,
+      "builder": "D42CRuf7",
+      "unit": "Port",
+      "tile": 720661
+    },
+    {
+      "turn": 6601,
+      "builder": "4EiX6cZx",
+      "unit": "City",
+      "tile": 1435527
+    },
+    {
+      "turn": 6614,
+      "builder": "wkTUZNRE",
+      "unit": "Atom Bomb",
+      "tile": 1321067
+    },
+    {
+      "turn": 6614,
+      "builder": "tPA57aWj",
+      "unit": "Factory",
+      "tile": 994664
+    },
+    {
+      "turn": 6650,
+      "builder": "D42CRuf7",
+      "unit": "Missile Silo",
+      "tile": 731167
+    },
+    {
+      "turn": 6650,
+      "builder": "tPA57aWj",
+      "unit": "City",
+      "tile": 844555
+    },
+    {
+      "turn": 6662,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1413326
+    },
+    {
+      "turn": 6666,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 655777
+    },
+    {
+      "turn": 6693,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 686388
+    },
+    {
+      "turn": 6699,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 193135
+    },
+    {
+      "turn": 6707,
+      "builder": "XFuP8RND",
+      "unit": "Atom Bomb",
+      "tile": 1491610
+    },
+    {
+      "turn": 6723,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 121335
+    },
+    {
+      "turn": 6733,
+      "builder": "wkTUZNRE",
+      "unit": "Hydrogen Bomb",
+      "tile": 1397680
+    },
+    {
+      "turn": 6761,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 766144
+    },
+    {
+      "turn": 6765,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1419566
+    },
+    {
+      "turn": 6769,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 791594
+    },
+    {
+      "turn": 6780,
+      "builder": "CoMjBmKe",
+      "unit": "Atom Bomb",
+      "tile": 263908
+    },
+    {
+      "turn": 6805,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 362963
+    },
+    {
+      "turn": 6806,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 830224
+    },
+    {
+      "turn": 6816,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1204695
+    },
+    {
+      "turn": 6821,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 842698
+    },
+    {
+      "turn": 6828,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 596958
+    },
+    {
+      "turn": 6829,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 1002677
+    },
+    {
+      "turn": 6833,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1610101
+    },
+    {
+      "turn": 6846,
+      "builder": "NBqRgbML",
+      "unit": "Factory",
+      "tile": 527970
+    },
+    {
+      "turn": 6854,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 668175
+    },
+    {
+      "turn": 6861,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 633752
+    },
+    {
+      "turn": 6863,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 448472
+    },
+    {
+      "turn": 6870,
+      "builder": "CoMjBmKe",
+      "unit": "Atom Bomb",
+      "tile": 128918
+    },
+    {
+      "turn": 6876,
+      "builder": "4Vz3F32q",
+      "unit": "SAM Launcher",
+      "tile": 1517621
+    },
+    {
+      "turn": 6880,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 368266
+    },
+    {
+      "turn": 6884,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 353985
+    },
+    {
+      "turn": 6890,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 191285
+    },
+    {
+      "turn": 6898,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 314388
+    },
+    {
+      "turn": 6900,
+      "builder": "u8fAVVoQ",
+      "unit": "Hydrogen Bomb",
+      "tile": 206215
+    },
+    {
+      "turn": 6971,
+      "builder": "tPA57aWj",
+      "unit": "SAM Launcher",
+      "tile": 808605
+    },
+    {
+      "turn": 6980,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1548710
+    },
+    {
+      "turn": 7002,
+      "builder": "NBqRgbML",
+      "unit": "City",
+      "tile": 281944
+    },
+    {
+      "turn": 7044,
+      "builder": "NBqRgbML",
+      "unit": "SAM Launcher",
+      "tile": 254913
+    },
+    {
+      "turn": 7056,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1404717
+    },
+    {
+      "turn": 7061,
+      "builder": "dkB9sFgP",
+      "unit": "Port",
+      "tile": 635721
+    },
+    {
+      "turn": 7086,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1160838
+    },
+    {
+      "turn": 7086,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1267252
+    },
+    {
+      "turn": 7101,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1261253
+    },
+    {
+      "turn": 7102,
+      "builder": "dkB9sFgP",
+      "unit": "Warship",
+      "tile": 685253
+    },
+    {
+      "turn": 7103,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1292962
+    },
+    {
+      "turn": 7127,
+      "builder": "dkB9sFgP",
+      "unit": "Warship",
+      "tile": 363981
+    },
+    {
+      "turn": 7147,
+      "builder": "u8fAVVoQ",
+      "unit": "Factory",
+      "tile": 626795
+    },
+    {
+      "turn": 7165,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1520877
+    },
+    {
+      "turn": 7238,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1263557
+    },
+    {
+      "turn": 7259,
+      "builder": "NBqRgbML",
+      "unit": "Warship",
+      "tile": 100393
+    },
+    {
+      "turn": 7293,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 665671
+    },
+    {
+      "turn": 7297,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 692725
+    },
+    {
+      "turn": 7300,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 724248
+    },
+    {
+      "turn": 7305,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 808274
+    },
+    {
+      "turn": 7307,
+      "builder": "NBqRgbML",
+      "unit": "Warship",
+      "tile": 211331
+    },
+    {
+      "turn": 7337,
+      "builder": "XFuP8RND",
+      "unit": "Atom Bomb",
+      "tile": 1548711
+    },
+    {
+      "turn": 7350,
+      "builder": "D42CRuf7",
+      "unit": "SAM Launcher",
+      "tile": 785633
+    },
+    {
+      "turn": 7372,
+      "builder": "gCCzeQxy",
+      "unit": "SAM Launcher",
+      "tile": 1148799
+    },
+    {
+      "turn": 7374,
+      "builder": "tPA57aWj",
+      "unit": "Port",
+      "tile": 855088
+    },
+    {
+      "turn": 7398,
+      "builder": "CoMjBmKe",
+      "unit": "Warship",
+      "tile": 110882
+    },
+    {
+      "turn": 7429,
+      "builder": "CoMjBmKe",
+      "unit": "Warship",
+      "tile": 113882
+    },
+    {
+      "turn": 7448,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 1072469
+    },
+    {
+      "turn": 7484,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1637057
+    },
+    {
+      "turn": 7548,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 422143
+    },
+    {
+      "turn": 7553,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 1199575
+    },
+    {
+      "turn": 7555,
+      "builder": "XFuP8RND",
+      "unit": "SAM Launcher",
+      "tile": 1408984
+    },
+    {
+      "turn": 7560,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 159821
+    },
+    {
+      "turn": 7637,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1611711
+    },
+    {
+      "turn": 7639,
+      "builder": "XFuP8RND",
+      "unit": "Defense Post",
+      "tile": 1514113
+    },
+    {
+      "turn": 7664,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 1164511
+    },
+    {
+      "turn": 7691,
+      "builder": "D42CRuf7",
+      "unit": "Missile Silo",
+      "tile": 787135
+    },
+    {
+      "turn": 7700,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1544024
+    },
+    {
+      "turn": 7742,
+      "builder": "gCCzeQxy",
+      "unit": "Hydrogen Bomb",
+      "tile": 1530308
+    },
+    {
+      "turn": 7743,
+      "builder": "CoMjBmKe",
+      "unit": "Warship",
+      "tile": 217318
+    },
+    {
+      "turn": 7779,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1533669
+    },
+    {
+      "turn": 7787,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1320770
+    },
+    {
+      "turn": 7788,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 808142
+    },
+    {
+      "turn": 7803,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1326734
+    },
+    {
+      "turn": 7805,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 817145
+    },
+    {
+      "turn": 7821,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1332813
+    },
+    {
+      "turn": 7874,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1376319
+    },
+    {
+      "turn": 7890,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 290425
+    },
+    {
+      "turn": 7900,
+      "builder": "XFuP8RND",
+      "unit": "Defense Post",
+      "tile": 1425481
+    },
+    {
+      "turn": 7936,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 557918
+    },
+    {
+      "turn": 7950,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1280110
+    },
+    {
+      "turn": 7959,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1289886
+    },
+    {
+      "turn": 7984,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1157862
+    },
+    {
+      "turn": 7984,
+      "builder": "CoMjBmKe",
+      "unit": "Missile Silo",
+      "tile": 398976
+    },
+    {
+      "turn": 8001,
+      "builder": "u8fAVVoQ",
+      "unit": "Hydrogen Bomb",
+      "tile": 371913
+    },
+    {
+      "turn": 8013,
+      "builder": "gCCzeQxy",
+      "unit": "SAM Launcher",
+      "tile": 1259782
+    },
+    {
+      "turn": 8084,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 541367
+    },
+    {
+      "turn": 8087,
+      "builder": "CoMjBmKe",
+      "unit": "Missile Silo",
+      "tile": 181476
+    },
+    {
+      "turn": 8093,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 632958
+    },
+    {
+      "turn": 8113,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 611886
+    },
+    {
+      "turn": 8149,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 499316
+    },
+    {
+      "turn": 8190,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1305615
+    },
+    {
+      "turn": 8193,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 199466
+    },
+    {
+      "turn": 8208,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1404603
+    },
+    {
+      "turn": 8223,
+      "builder": "CoMjBmKe",
+      "unit": "Hydrogen Bomb",
+      "tile": 757445
+    },
+    {
+      "turn": 8228,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 157376
+    },
+    {
+      "turn": 8232,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1269574
+    },
+    {
+      "turn": 8247,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1251517
+    },
+    {
+      "turn": 8275,
+      "builder": "D42CRuf7",
+      "unit": "SAM Launcher",
+      "tile": 597872
+    },
+    {
+      "turn": 8312,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1413401
+    },
+    {
+      "turn": 8340,
+      "builder": "dkB9sFgP",
+      "unit": "SAM Launcher",
+      "tile": 514282
+    },
+    {
+      "turn": 8360,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 689819
+    },
+    {
+      "turn": 8423,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 515832
+    },
+    {
+      "turn": 8500,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 602798
+    },
+    {
+      "turn": 8533,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 300848
+    },
+    {
+      "turn": 8548,
+      "builder": "u8fAVVoQ",
+      "unit": "Atom Bomb",
+      "tile": 324630
+    },
+    {
+      "turn": 8550,
+      "builder": "tPA57aWj",
+      "unit": "Port",
+      "tile": 822138
+    },
+    {
+      "turn": 8551,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 1391664
+    },
+    {
+      "turn": 8569,
+      "builder": "tPA57aWj",
+      "unit": "Factory",
+      "tile": 852113
+    },
+    {
+      "turn": 8570,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 1408126
+    },
+    {
+      "turn": 8598,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 755382
+    },
+    {
+      "turn": 8603,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1418080
+    },
+    {
+      "turn": 8638,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 1312153
+    },
+    {
+      "turn": 8645,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 1315215
+    },
+    {
+      "turn": 8653,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 1378123
+    },
+    {
+      "turn": 8654,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1338459
+    },
+    {
+      "turn": 8669,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 1387235
+    },
+    {
+      "turn": 8736,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1278673
+    },
+    {
+      "turn": 8754,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1265358
+    },
+    {
+      "turn": 8766,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 658108
+    },
+    {
+      "turn": 8774,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1302629
+    },
+    {
+      "turn": 8796,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1247103
+    },
+    {
+      "turn": 8814,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1277050
+    },
+    {
+      "turn": 8831,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1281773
+    },
+    {
+      "turn": 8847,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1305792
+    },
+    {
+      "turn": 8865,
+      "builder": "u8fAVVoQ",
+      "unit": "Hydrogen Bomb",
+      "tile": 211955
+    },
+    {
+      "turn": 8882,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1277236
+    },
+    {
+      "turn": 8899,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 680834
+    },
+    {
+      "turn": 8904,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1413268
+    },
+    {
+      "turn": 8906,
+      "builder": "u8fAVVoQ",
+      "unit": "Defense Post",
+      "tile": 616265
+    },
+    {
+      "turn": 8910,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1459925
+    },
+    {
+      "turn": 8914,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1331134
+    },
+    {
+      "turn": 8928,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1340079
+    },
+    {
+      "turn": 9037,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1398372
+    },
+    {
+      "turn": 9056,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1540934
+    },
+    {
+      "turn": 9074,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1322004
+    },
+    {
+      "turn": 9107,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1298228
+    },
+    {
+      "turn": 9134,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1227678
+    },
+    {
+      "turn": 9136,
+      "builder": "D42CRuf7",
+      "unit": "Missile Silo",
+      "tile": 369831
+    },
+    {
+      "turn": 9158,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1236753
+    },
+    {
+      "turn": 9174,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1238124
+    },
+    {
+      "turn": 9191,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1190185
+    },
+    {
+      "turn": 9206,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1229276
+    },
+    {
+      "turn": 9234,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1251817
+    },
+    {
+      "turn": 9252,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1238343
+    },
+    {
+      "turn": 9327,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 296303
+    },
+    {
+      "turn": 9334,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1302679
+    },
+    {
+      "turn": 9349,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 260385
+    },
+    {
+      "turn": 9353,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1518383
+    },
+    {
+      "turn": 9374,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1172142
+    },
+    {
+      "turn": 9379,
+      "builder": "CoMjBmKe",
+      "unit": "SAM Launcher",
+      "tile": 248361
+    },
+    {
+      "turn": 9386,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1178114
+    },
+    {
+      "turn": 9398,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1205118
+    },
+    {
+      "turn": 9423,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1182714
+    },
+    {
+      "turn": 9423,
+      "builder": "CoMjBmKe",
+      "unit": "SAM Launcher",
+      "tile": 378700
+    },
+    {
+      "turn": 9447,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 407210
+    },
+    {
+      "turn": 9447,
+      "builder": "tPA57aWj",
+      "unit": "Factory",
+      "tile": 538718
+    },
+    {
+      "turn": 9496,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1290653
+    },
+    {
+      "turn": 9499,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1464373
+    },
+    {
+      "turn": 9513,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 576896
+    },
+    {
+      "turn": 9528,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 573901
+    },
+    {
+      "turn": 9543,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 552886
+    },
+    {
+      "turn": 9571,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 437727
+    },
+    {
+      "turn": 9590,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1502969
+    },
+    {
+      "turn": 9603,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1357555
+    },
+    {
+      "turn": 9609,
+      "builder": "D42CRuf7",
+      "unit": "SAM Launcher",
+      "tile": 713575
+    },
+    {
+      "turn": 9611,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1267490
+    },
+    {
+      "turn": 9615,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1543580
+    },
+    {
+      "turn": 9621,
+      "builder": "D42CRuf7",
+      "unit": "SAM Launcher",
+      "tile": 718073
+    },
+    {
+      "turn": 9637,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1385981
+    },
+    {
+      "turn": 9654,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1093444
+    },
+    {
+      "turn": 9673,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1039379
+    },
+    {
+      "turn": 9688,
+      "builder": "dkB9sFgP",
+      "unit": "Hydrogen Bomb",
+      "tile": 175061
+    },
+    {
+      "turn": 9705,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 426673
+    },
+    {
+      "turn": 9734,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1574853
+    },
+    {
+      "turn": 9739,
+      "builder": "D42CRuf7",
+      "unit": "Port",
+      "tile": 1303031
+    },
+    {
+      "turn": 9749,
+      "builder": "gCCzeQxy",
+      "unit": "Factory",
+      "tile": 1622944
+    },
+    {
+      "turn": 9766,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 1319568
+    },
+    {
+      "turn": 9784,
+      "builder": "gCCzeQxy",
+      "unit": "Factory",
+      "tile": 1439939
+    },
+    {
+      "turn": 9859,
+      "builder": "tPA57aWj",
+      "unit": "Hydrogen Bomb",
+      "tile": 636787
+    },
+    {
+      "turn": 9888,
+      "builder": "wuWNQ2ry",
+      "unit": "Defense Post",
+      "tile": 1365832
+    },
+    {
+      "turn": 9965,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 739266
+    },
+    {
+      "turn": 9989,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 704823
+    },
+    {
+      "turn": 10032,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 818741
+    },
+    {
+      "turn": 10056,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 904359
+    },
+    {
+      "turn": 10107,
+      "builder": "wuWNQ2ry",
+      "unit": "SAM Launcher",
+      "tile": 1253174
+    },
+    {
+      "turn": 10123,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 1275614
+    },
+    {
+      "turn": 10152,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1256175
+    },
+    {
+      "turn": 10153,
+      "builder": "tPA57aWj",
+      "unit": "Hydrogen Bomb",
+      "tile": 1219230
+    },
+    {
+      "turn": 10165,
+      "builder": "CoMjBmKe",
+      "unit": "SAM Launcher",
+      "tile": 174880
+    },
+    {
+      "turn": 10168,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1325180
+    },
+    {
+      "turn": 10173,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1273952
+    },
+    {
+      "turn": 10185,
+      "builder": "wuWNQ2ry",
+      "unit": "SAM Launcher",
+      "tile": 1254675
+    },
+    {
+      "turn": 10189,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1330855
+    },
+    {
+      "turn": 10200,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1335211
+    },
+    {
+      "turn": 10201,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 596502
+    },
+    {
+      "turn": 10205,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 609978
+    },
+    {
+      "turn": 10209,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 563489
+    },
+    {
+      "turn": 10216,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 648962
+    },
+    {
+      "turn": 10222,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 638446
+    },
+    {
+      "turn": 10226,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 663948
+    },
+    {
+      "turn": 10231,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 632493
+    },
+    {
+      "turn": 10237,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 605471
+    },
+    {
+      "turn": 10243,
+      "builder": "dkB9sFgP",
+      "unit": "Defense Post",
+      "tile": 669962
+    },
+    {
+      "turn": 10257,
+      "builder": "wuWNQ2ry",
+      "unit": "City",
+      "tile": 1247145
+    },
+    {
+      "turn": 10293,
+      "builder": "dkB9sFgP",
+      "unit": "Missile Silo",
+      "tile": 322193
+    },
+    {
+      "turn": 10401,
+      "builder": "dkB9sFgP",
+      "unit": "Hydrogen Bomb",
+      "tile": 106243
+    },
+    {
+      "turn": 10403,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 17141
+    },
+    {
+      "turn": 10455,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 21532
+    },
+    {
+      "turn": 10478,
+      "builder": "CoMjBmKe",
+      "unit": "Factory",
+      "tile": 62044
+    },
+    {
+      "turn": 10489,
+      "builder": "dkB9sFgP",
+      "unit": "Atom Bomb",
+      "tile": 315990
+    },
+    {
+      "turn": 10496,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 1175719
+    },
+    {
+      "turn": 10504,
+      "builder": "CoMjBmKe",
+      "unit": "Factory",
+      "tile": 41188
+    },
+    {
+      "turn": 10517,
+      "builder": "D42CRuf7",
+      "unit": "Atom Bomb",
+      "tile": 787642
+    },
+    {
+      "turn": 10524,
+      "builder": "wkTUZNRE",
+      "unit": "Missile Silo",
+      "tile": 1512303
+    },
+    {
+      "turn": 10529,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 192589
+    },
+    {
+      "turn": 10535,
+      "builder": "D42CRuf7",
+      "unit": "Hydrogen Bomb",
+      "tile": 844674
+    },
+    {
+      "turn": 10550,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 323069
+    },
+    {
+      "turn": 10580,
+      "builder": "dkB9sFgP",
+      "unit": "Atom Bomb",
+      "tile": 18649
+    },
+    {
+      "turn": 10593,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 690342
+    },
+    {
+      "turn": 10690,
+      "builder": "dkB9sFgP",
+      "unit": "Atom Bomb",
+      "tile": 48529
+    },
+    {
+      "turn": 10728,
+      "builder": "wkTUZNRE",
+      "unit": "Atom Bomb",
+      "tile": 707175
+    },
+    {
+      "turn": 10753,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 1013378
+    },
+    {
+      "turn": 10770,
+      "builder": "Dnw44ee6",
+      "unit": "Warship",
+      "tile": 738877
+    },
+    {
+      "turn": 10794,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 726291
+    },
+    {
+      "turn": 10800,
+      "builder": "Dnw44ee6",
+      "unit": "Atom Bomb",
+      "tile": 1277820
+    },
+    {
+      "turn": 10829,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 679136
+    },
+    {
+      "turn": 10839,
+      "builder": "tPA57aWj",
+      "unit": "Hydrogen Bomb",
+      "tile": 785498
+    },
+    {
+      "turn": 10856,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 580101
+    },
+    {
+      "turn": 10866,
+      "builder": "D42CRuf7",
+      "unit": "City",
+      "tile": 565152
+    },
+    {
+      "turn": 10942,
+      "builder": "gCCzeQxy",
+      "unit": "SAM Launcher",
+      "tile": 1199825
+    },
+    {
+      "turn": 10950,
+      "builder": "wkTUZNRE",
+      "unit": "Warship",
+      "tile": 493941
+    },
+    {
+      "turn": 10973,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1605886
+    },
+    {
+      "turn": 11001,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1637179
+    },
+    {
+      "turn": 11034,
+      "builder": "Dnw44ee6",
+      "unit": "Atom Bomb",
+      "tile": 1210328
+    },
+    {
+      "turn": 11059,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 827642
+    },
+    {
+      "turn": 11089,
+      "builder": "wkTUZNRE",
+      "unit": "Atom Bomb",
+      "tile": 820140
+    },
+    {
+      "turn": 11136,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1087454
+    },
+    {
+      "turn": 11143,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 1643995
+    },
+    {
+      "turn": 11144,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 595381
+    },
+    {
+      "turn": 11166,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 595447
+    },
+    {
+      "turn": 11188,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 655343
+    },
+    {
+      "turn": 11212,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 617863
+    },
+    {
+      "turn": 11213,
+      "builder": "Dnw44ee6",
+      "unit": "Atom Bomb",
+      "tile": 1413576
+    },
+    {
+      "turn": 11304,
+      "builder": "D42CRuf7",
+      "unit": "Missile Silo",
+      "tile": 1303041
+    },
+    {
+      "turn": 11323,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 540677
+    },
+    {
+      "turn": 11349,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1205823
+    },
+    {
+      "turn": 11365,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1205819
+    },
+    {
+      "turn": 11370,
+      "builder": "CoMjBmKe",
+      "unit": "Factory",
+      "tile": 116035
+    },
+    {
+      "turn": 11375,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 1154107
+    },
+    {
+      "turn": 11392,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 581241
+    },
+    {
+      "turn": 11398,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 381396
+    },
+    {
+      "turn": 11406,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 653199
+    },
+    {
+      "turn": 11427,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 692518
+    },
+    {
+      "turn": 11441,
+      "builder": "CoMjBmKe",
+      "unit": "Factory",
+      "tile": 349978
+    },
+    {
+      "turn": 11520,
+      "builder": "Dnw44ee6",
+      "unit": "Atom Bomb",
+      "tile": 1241287
+    },
+    {
+      "turn": 11586,
+      "builder": "tPA57aWj",
+      "unit": "Hydrogen Bomb",
+      "tile": 1442900
+    },
+    {
+      "turn": 11600,
+      "builder": "Dnw44ee6",
+      "unit": "Atom Bomb",
+      "tile": 1187224
+    },
+    {
+      "turn": 11601,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 230658
+    },
+    {
+      "turn": 11624,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 160152
+    },
+    {
+      "turn": 11652,
+      "builder": "CoMjBmKe",
+      "unit": "Defense Post",
+      "tile": 59648
+    },
+    {
+      "turn": 11735,
+      "builder": "tPA57aWj",
+      "unit": "Defense Post",
+      "tile": 1237752
+    },
+    {
+      "turn": 11746,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 587684
+    },
+    {
+      "turn": 11827,
+      "builder": "wkTUZNRE",
+      "unit": "Atom Bomb",
+      "tile": 916191
+    },
+    {
+      "turn": 11923,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1329556
+    },
+    {
+      "turn": 11939,
+      "builder": "wkTUZNRE",
+      "unit": "Port",
+      "tile": 729653
+    },
+    {
+      "turn": 11985,
+      "builder": "tPA57aWj",
+      "unit": "Hydrogen Bomb",
+      "tile": 631380
+    },
+    {
+      "turn": 12034,
+      "builder": "gCCzeQxy",
+      "unit": "Hydrogen Bomb",
+      "tile": 96198
+    },
+    {
+      "turn": 12083,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1446305
+    },
+    {
+      "turn": 12104,
+      "builder": "wkTUZNRE",
+      "unit": "Defense Post",
+      "tile": 1614319
+    },
+    {
+      "turn": 12129,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 674225
+    },
+    {
+      "turn": 12138,
+      "builder": "D42CRuf7",
+      "unit": "Defense Post",
+      "tile": 630725
+    },
+    {
+      "turn": 12154,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1499249
+    },
+    {
+      "turn": 12169,
+      "builder": "gCCzeQxy",
+      "unit": "Defense Post",
+      "tile": 1451468
+    },
+    {
+      "turn": 12239,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 1211899
+    },
+    {
+      "turn": 12334,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 1098630
+    },
+    {
+      "turn": 12347,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 1095665
+    },
+    {
+      "turn": 12401,
+      "builder": "CoMjBmKe",
+      "unit": "Hydrogen Bomb",
+      "tile": 392571
+    },
+    {
+      "turn": 12426,
+      "builder": "wkTUZNRE",
+      "unit": "Warship",
+      "tile": 1088116
+    },
+    {
+      "turn": 12435,
+      "builder": "gCCzeQxy",
+      "unit": "Hydrogen Bomb",
+      "tile": 984110
+    },
+    {
+      "turn": 12509,
+      "builder": "D42CRuf7",
+      "unit": "Atom Bomb",
+      "tile": 1344707
+    },
+    {
+      "turn": 12514,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 323694
+    },
+    {
+      "turn": 12542,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 6008
+    },
+    {
+      "turn": 12551,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 1310551
+    },
+    {
+      "turn": 12584,
+      "builder": "wkTUZNRE",
+      "unit": "Warship",
+      "tile": 1112110
+    },
+    {
+      "turn": 12626,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 271490
+    },
+    {
+      "turn": 12648,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 335817
+    },
+    {
+      "turn": 12739,
+      "builder": "Dnw44ee6",
+      "unit": "Missile Silo",
+      "tile": 112611
+    },
+    {
+      "turn": 12749,
+      "builder": "tPA57aWj",
+      "unit": "Hydrogen Bomb",
+      "tile": 871266
+    },
+    {
+      "turn": 12846,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 812970
+    },
+    {
+      "turn": 12864,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 464818
+    },
+    {
+      "turn": 12865,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 197034
+    },
+    {
+      "turn": 12895,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 1292802
+    },
+    {
+      "turn": 12918,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 1459200
+    },
+    {
+      "turn": 12951,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 1579336
+    },
+    {
+      "turn": 12992,
+      "builder": "tPA57aWj",
+      "unit": "Atom Bomb",
+      "tile": 821960
+    },
+    {
+      "turn": 13007,
+      "builder": "CoMjBmKe",
+      "unit": "Atom Bomb",
+      "tile": 806957
+    },
+    {
+      "turn": 13029,
+      "builder": "wkTUZNRE",
+      "unit": "City",
+      "tile": 1635356
+    },
+    {
+      "turn": 13042,
+      "builder": "gCCzeQxy",
+      "unit": "Hydrogen Bomb",
+      "tile": 844691
+    },
+    {
+      "turn": 13093,
+      "builder": "gCCzeQxy",
+      "unit": "Hydrogen Bomb",
+      "tile": 1051614
+    },
+    {
+      "turn": 13104,
+      "builder": "CoMjBmKe",
+      "unit": "City",
+      "tile": 66607
+    },
+    {
+      "turn": 13158,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1413491
+    },
+    {
+      "turn": 13173,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 1413491
+    },
+    {
+      "turn": 13225,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 880480
+    },
+    {
+      "turn": 13243,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 673494
+    },
+    {
+      "turn": 13269,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 799374
+    },
+    {
+      "turn": 13288,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 986993
+    },
+    {
+      "turn": 13316,
+      "builder": "gCCzeQxy",
+      "unit": "City",
+      "tile": 382234
+    },
+    {
+      "turn": 13335,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 925403
+    },
+    {
+      "turn": 13364,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 739580
+    },
+    {
+      "turn": 13453,
+      "builder": "gCCzeQxy",
+      "unit": "Missile Silo",
+      "tile": 274261
+    },
+    {
+      "turn": 13562,
+      "builder": "gCCzeQxy",
+      "unit": "Atom Bomb",
+      "tile": 118615
+    },
+    {
+      "turn": 13566,
+      "builder": "D42CRuf7",
+      "unit": "Warship",
+      "tile": 1232459
+    },
+    {
+      "turn": 13617,
+      "builder": "tPA57aWj",
+      "unit": "SAM Launcher",
+      "tile": 804049
+    },
+    {
+      "turn": 13645,
+      "builder": "tPA57aWj",
+      "unit": "SAM Launcher",
+      "tile": 838529
+    },
+    {
+      "turn": 13662,
+      "builder": "tPA57aWj",
+      "unit": "Missile Silo",
+      "tile": 745519
+    },
+    {
+      "turn": 13684,
+      "builder": "tPA57aWj",
+      "unit": "Missile Silo",
+      "tile": 783030
+    },
+    {
+      "turn": 13915,
+      "builder": "Dnw44ee6",
+      "unit": "Missile Silo",
+      "tile": 187955
+    },
+    {
+      "turn": 14032,
+      "builder": "CoMjBmKe",
+      "unit": "Hydrogen Bomb",
+      "tile": 1531841
+    },
+    {
+      "turn": 14141,
+      "builder": "Dnw44ee6",
+      "unit": "Hydrogen Bomb",
+      "tile": 1311048
+    },
+    {
+      "turn": 14245,
+      "builder": "Dnw44ee6",
+      "unit": "Atom Bomb",
+      "tile": 1270932
     }
   ],
-  "alliances": []
+  "alliances": [
+    {
+      "players": [
+        "D42CRuf7",
+        "o1v7up6e"
+      ],
+      "expiresAt": 1764274602003,
+      "createdAt": 1764274302003,
+      "createdAtText": "2025-11-27T20:11:42.003Z"
+    },
+    {
+      "players": [
+        "Dnw44ee6",
+        "o1v7up6e"
+      ],
+      "expiresAt": 1764274604006,
+      "createdAt": 1764274304006,
+      "createdAtText": "2025-11-27T20:11:44.006Z"
+    }
+  ]
 }
