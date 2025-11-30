@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            OpenfrontIO+
 // @namespace       http://openfront.io/
-// @version         0.3.0
+// @version         0.3.1
 // @description     A userscript to take Openfront to the next step for Players and Casters !
 // @author          ImTheSpyke
 // @match           *://openfront.io/*
@@ -19,11 +19,15 @@
    function launchHoverMenu() {
        let last_coords_x = 0
        let last_coords_y = 0
+       let not_moved_since = 0
        document.addEventListener("mousemove", (event) => {
            last_coords_x = event.clientX + 10
            last_coords_y = event.clientY + 10
+           not_moved_since = Date.now()
        })
+       function notMovedFor() { Date.now() - not_moved_since }
        setInterval(() => {
+           if(notMovedFor() < 500) { return }
            document.querySelector("player-info-overlay div").setAttribute("style",`top:${last_coords_y}px;left:${last_coords_x}px;`)
        }, Math.floor(1000/60))
    }
