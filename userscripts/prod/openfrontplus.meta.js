@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            OpenfrontIO+
 // @namespace       http://openfront.io/
-// @version         0.2.1
+// @version         0.3.0
 // @description     A userscript to take Openfront to the next step for Players and Casters !
 // @author          ImTheSpyke
 // @match           *://openfront.io/*
