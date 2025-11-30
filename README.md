@@ -8,12 +8,13 @@
 ### Features:
 - ✅ See newly built structures
 - ✅ See impact zone of Atomb Bomb & Hydrogen bombs and who sent it
-- ⏳
+- ✅ Info on hover next to the mouse
 - ⏳ Scoreboard in pie chart for map %, gold, and troops (Coming soon...)
 
 ## Example of the overlay
 (click to open on youtube)
 
+![Hover](vid/image.png)
 [![Watch the video](vid/example_openfrontplus_usercript.gif)](https://youtu.be/ro2ktD1uEoo)
 
 # How to install ?
