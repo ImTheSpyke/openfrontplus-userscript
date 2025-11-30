@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            OpenfrontIO+
 // @namespace       http://openfront.io/
-// @version         0.2.1
+// @version         0.3.0
 // @description     A userscript to take Openfront to the next step for Players and Casters !
 // @author          ImTheSpyke
 // @match           *://openfront.io/*
@@ -14,6 +14,22 @@
 
 (async function() {
     'use strict';
+
+
+   function launchHoverMenu() {
+       let last_coords_x = 0
+       let last_coords_y = 0
+       document.addEventListener("mousemove", (event) => {
+           last_coords_x = event.clientX + 10
+           last_coords_y = event.clientY + 10
+       })
+       setInterval(() => {
+           document.querySelector("player-info-overlay div").setAttribute("style",`top:${last_coords_y}px;left:${last_coords_x}px;`)
+       }, Math.floor(1000/60))
+   }
+   launchHoverMenu()
+    
+    
 
     function getGameID() {
         // https://openfront.io/#join=e65NkFyD
